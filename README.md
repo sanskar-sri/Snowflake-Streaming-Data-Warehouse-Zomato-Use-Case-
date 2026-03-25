@@ -17,3 +17,4 @@ End-to-end cloud data warehouse built using Snowflake.
 ## FLOWCHAT WILL BE ATTACHED
 
 
+<img width="1533" height="735" alt="Screenshot 2026-03-25 at 7 44 29 PM" src="https://github.com/user-attachments/assets/a1f9a02e-833a-4468-b1af-de7a4b255f12" />
