@@ -1,0 +1,1001 @@
+RESTAURANT_ID,RESTAURANT_NAME,CUISINE_PRIMARY,CUISINE_SECONDARY,CITY,AREA,LAT,LNG,AVG_RATING,COMMISSION_RATE,IS_ACTIVE,ONBOARDED_AT
+1,Reed-Stafford,Healthy,Healthy,Hyderabad,West,-81.2881455,107.294267,3.68,0.194,FALSE,2023-08-06 23:47:00
+2,Garcia LLC,Italian,North Indian,Mumbai,North,40.290852,112.206168,4.79,0.207,Y,2023-06-03 16:43:00
+3,Smith-Byrd,Healthy,Healthy,Pune,South,-53.2713765,17.999848,4.51,0.239,FALSE,2023-09-28 11:25:00
+4,Boyd Inc,Fast Food,Chinese,Hyderabad,West,36.584732,-39.172356,3.8,0.245,N,2024-03-29 02:40:00
+5,Griffin-Macdonald,South Indian,Chinese,Delhi,East,-15.337082,19.692508,3.64,0.286,TRUE,2023-11-24 22:06:00
+6,Gardner-Chavez,Healthy,Chinese,Bengaluru,North,-35.190956,69.561455,4.29,0.216,1,2023-06-23 20:29:00
+7,Gray-Cantrell,Healthy,Bakery,Chennai,West,16.296153,-28.920697,3.01,0.242,TRUE,2023-11-19 07:44:00
+8,Townsend-Hall,South Indian,Italian,Chennai,South,38.020445,-11.309226,4.12,0.192,1,2023-02-03 16:27:00
+9,"Berry, Thornton and Reeves",South Indian,Bakery,Hyderabad,West,-45.372773,-160.110177,3.01,0.206,0,2024-02-17 19:48:00
+10,Young-Wolf,Italian,Fast Food,Mumbai,East,68.4041295,-126.755085,3.34,0.195,0,2024-06-21 01:27:00
+11,Crawford LLC,Italian,South Indian,Chennai,East,-14.683765,49.187157,4.65,0.181,1,2023-10-09 02:58:00
+12,Lopez-Willis,South Indian,Healthy,Delhi,South,-38.6098355,134.055819,3.0,0.276,0,2023-11-18 03:31:00
+13,"Carlson, Casey and Levine",Chinese,Fast Food,Bengaluru,North,54.319730,-1.603970,4.44,0.28,N,2024-04-07 21:33:00
+14,Hanson Group,Italian,Italian,Hyderabad,South,-6.0045125,-112.653585,3.78,0.247,Y,2023-09-30 23:36:00
+15,"Jones, Price and Kaufman",South Indian,Healthy,Pune,North,-71.5980105,-138.206017,4.55,0.286,0,2023-07-21 19:28:00
+16,Reynolds-Thomas,South Indian,Healthy,Hyderabad,Central,46.316626,54.361403,3.85,0.256,,2024-08-12 09:40:00
+17,"Williams, Smith and Pearson",Bakery,Italian,Bengaluru,East,34.787760,84.407509,3.1,0.157,0,2024-06-30 03:45:00
+18,Trevino-Lynch,Chinese,Fast Food,Chennai,South,29.138248,-3.707448,4.57,0.239,N,2024-04-17 16:14:00
+19,"Burgess, Velazquez and Stevens",South Indian,Healthy,Hyderabad,Central,33.7252505,-144.855302,4.14,0.214,0,2023-09-27 08:35:00
+20,Foster-Lucero,Chinese,Chinese,Mumbai,East,-43.7787105,-148.082338,4.6,0.229,TRUE,2023-08-04 11:39:00
+21,Kim LLC,Healthy,Healthy,Bengaluru,North,31.746913,81.202145,4.7,0.211,TRUE,2023-07-10 15:57:00
+22,Mora and Sons,Chinese,Italian,Bengaluru,East,-18.0058275,130.211283,4.31,0.159,N,2023-03-29 21:43:00
+23,Wheeler PLC,Fast Food,South Indian,Chennai,North,88.1154665,-128.804611,3.98,0.282,0,2024-02-13 03:14:00
+24,Lewis-Dawson,Italian,Chinese,Mumbai,South,-18.5837705,-139.145533,4.03,0.24,N,2024-08-25 17:46:00
+25,Griffin-James,South Indian,South Indian,Delhi,East,51.5986725,29.295392,4.73,0.212,TRUE,2024-05-27 15:13:00
+26,"Davidson, Smith and Powell",North Indian,Italian,Bengaluru,West,30.2722455,-109.843360,3.6,0.16,FALSE,2023-02-15 21:26:00
+27,Taylor-Ortega,Healthy,Italian,Pune,South,-5.694570,149.988213,4.52,0.156,1,2023-02-06 15:31:00
+28,Howard LLC,Chinese,Italian,Hyderabad,West,-72.472751,81.991656,3.37,0.26,TRUE,2024-06-08 06:41:00
+29,"Aguirre, Mcdonald and Johnson",Chinese,Italian,Bengaluru,North,-42.234199,70.801812,3.41,0.215,FALSE,2023-12-03 22:31:00
+30,Rogers-Hall,Chinese,Fast Food,Delhi,North,52.6293535,-122.235473,,0.222,Y,2024-06-10 01:58:00
+31,"Wallace, Turner and Henderson",Fast Food,Healthy,Hyderabad,West,68.0396265,12.695424,3.02,0.187,N,2024-11-10 13:18:00
+32,Jackson-Young,Italian,Bakery,Delhi,West,0.3334165,-117.862829,3.44,0.199,N,2024-10-01 17:09:00
+33,Jensen-Jones,Fast Food,Fast Food,Delhi,West,-47.0084095,107.287685,4.71,0.285,1,2024-08-24 07:21:00
+34,Webb-Mckay,North Indian,Italian,Bengaluru,South,83.445855,91.818505,3.36,0.215,TRUE,2024-12-31 11:40:00
+35,Jordan Ltd,North Indian,Bakery,Mumbai,South,22.894324,-6.125147,3.76,0.174,1,2024-10-26 01:17:00
+36,"Waters, Perkins and Gilmore",Italian,Italian,Mumbai,North,65.725285,-55.036693,4.09,0.183,,2024-09-06 05:38:00
+37,Knight-Solomon,Chinese,North Indian,Mumbai,North,19.2105315,-152.552455,3.64,0.154,Y,2024-09-03 21:56:00
+38,Everett-Carney,Healthy,Healthy,Hyderabad,Central,52.875819,-93.473887,3.21,0.271,FALSE,2024-11-30 15:48:00
+39,Campbell Ltd,Healthy,Bakery,Mumbai,West,-48.4193385,150.789602,,0.204,0,2023-04-06 19:03:00
+40,"Smith, Davies and Williams",North Indian,Bakery,Delhi,West,-13.3420375,21.963090,3.01,0.171,0,2023-02-09 23:38:00
+41,Thomas-Martinez,Chinese,Fast Food,Pune,Central,-43.903585,-23.465101,4.68,0.267,1,2023-02-03 19:20:00
+42,Owens-Peterson,Chinese,Fast Food,Mumbai,South,81.4998745,-81.759153,4.64,0.256,Y,2023-08-11 17:37:00
+43,"Bradley, Osborn and Levine",Italian,South Indian,Delhi,West,55.484473,16.612900,3.8,0.272,,2023-06-03 09:14:00
+44,Bailey-Nguyen,Fast Food,Healthy,Chennai,Central,0.507232,52.409663,3.59,0.206,0,2023-03-28 18:17:00
+45,Mcdonald-Norton,Healthy,Fast Food,Mumbai,North,55.5062005,40.059717,3.87,0.215,0,2023-10-09 04:29:00
+46,"Gallagher, Nelson and Smith",Chinese,South Indian,Hyderabad,South,83.6863855,-5.873197,3.64,0.205,,2024-04-23 23:24:00
+47,Palmer-Parker,Bakery,North Indian,Pune,South,-10.2637765,58.873611,4.39,0.286,TRUE,2024-08-28 01:24:00
+48,Wilson-Yang,Italian,Bakery,Mumbai,West,-17.3980685,-36.087778,3.1,0.199,,2023-11-07 08:56:00
+49,Vasquez-Gonzales,Healthy,Chinese,Chennai,Central,36.583448,90.348912,3.9,0.274,TRUE,2023-10-29 17:29:00
+50,"Lynn, Raymond and Hall",Healthy,Chinese,Hyderabad,Central,-30.3178535,64.276445,3.51,0.227,TRUE,2023-05-20 22:20:00
+51,"Webster, Hunt and Nelson",South Indian,Chinese,Delhi,Central,36.4313605,25.837920,3.52,0.217,1,2024-02-27 20:19:00
+52,Brewer-Everett,Healthy,Healthy,Delhi,North,85.687168,-126.383293,3.62,0.205,TRUE,2023-12-07 17:21:00
+53,"Hutchinson, Anderson and Ferguson",Bakery,South Indian,Hyderabad,North,77.8831595,-81.128730,3.14,0.217,FALSE,2023-12-04 10:14:00
+54,Schmitt and Sons,Italian,Chinese,Pune,South,44.009408,119.656868,4.38,0.236,N,2023-07-04 12:37:00
+55,Woods LLC,Fast Food,Italian,Delhi,North,-59.209535,-92.072475,4.58,0.278,0,2024-08-23 08:28:00
+56,"Robinson, Winters and Bean",Italian,North Indian,Pune,South,86.583933,-126.947345,4.07,0.281,1,2024-01-08 20:28:00
+57,White and Sons,Bakery,Italian,Delhi,East,12.027382,-82.273029,3.99,0.284,TRUE,2023-04-19 14:53:00
+58,Roberts-Shaw,Healthy,Italian,Pune,East,6.935011,57.124458,3.24,0.168,Y,2023-12-04 12:25:00
+59,"Holloway, Hall and Brown",Healthy,Italian,Hyderabad,East,-55.2415325,101.210223,3.4,0.217,0,2024-10-01 00:42:00
+60,"Turner, Stephens and Sanchez",South Indian,Italian,Pune,North,-87.1463975,31.230670,3.54,0.252,FALSE,2024-02-11 12:18:00
+61,"Zimmerman, Murray and Jones",Chinese,North Indian,Mumbai,North,43.6470645,16.267669,4.45,0.191,FALSE,2024-05-23 21:44:00
+62,"Watson, Mccall and Reid",Chinese,Fast Food,Bengaluru,North,3.4710605,79.862693,3.1,0.269,Y,2023-12-28 12:08:00
+63,Chung Group,Italian,Healthy,Hyderabad,North,-52.500672,23.903725,4.73,0.294,Y,2024-03-10 19:03:00
+64,Guzman Ltd,Italian,Bakery,Chennai,East,-59.399732,72.460201,3.39,0.212,TRUE,2023-02-25 19:07:00
+65,Perez-Ward,Bakery,Fast Food,Hyderabad,Central,-38.1563255,-139.004588,,0.154,FALSE,2024-03-03 01:44:00
+66,Brown-Moon,Chinese,Bakery,Delhi,East,22.720086,148.991025,3.36,0.234,Y,2023-06-12 03:11:00
+67,Schwartz-Adams,South Indian,Italian,Chennai,West,69.643221,173.201027,4.29,0.208,0,2023-02-17 21:01:00
+68,"Mitchell, Miller and Henderson",Bakery,Italian,Chennai,Central,64.3196275,61.226106,4.74,0.229,TRUE,2024-06-14 17:16:00
+69,"Lowe, Phillips and Avila",North Indian,Chinese,Hyderabad,South,34.0933825,166.264062,3.63,0.269,1,2024-07-19 06:43:00
+70,"Boyer, Webster and Garrison",South Indian,South Indian,Hyderabad,Central,27.6598315,156.487879,3.14,0.174,FALSE,2023-10-19 01:39:00
+71,White-Jones,Bakery,South Indian,Bengaluru,North,-36.162643,174.082236,4.1,0.291,TRUE,2024-03-19 08:17:00
+72,Stewart-Wade,Bakery,Bakery,Pune,North,50.395799,-83.693717,4.06,0.232,1,2024-10-13 15:16:00
+73,Garrison Ltd,Fast Food,Fast Food,Hyderabad,West,3.7877465,9.397448,3.31,0.182,1,2023-11-01 09:40:00
+74,Mack PLC,Healthy,Italian,Pune,East,-26.9562495,135.816484,3.94,0.211,N,2023-10-07 04:36:00
+75,"Murphy, Benjamin and Olson",Bakery,North Indian,Chennai,North,18.6278025,110.089582,3.01,0.194,,2024-02-19 14:50:00
+76,"Simon, Meyer and Fischer",Italian,Chinese,Delhi,South,15.451624,-37.910651,3.87,0.277,FALSE,2023-09-21 15:48:00
+77,Flores Inc,South Indian,Healthy,Chennai,East,-75.550518,-169.704460,4.01,0.24,FALSE,2024-03-20 13:52:00
+78,Singleton Ltd,Fast Food,North Indian,Mumbai,West,21.249714,127.371093,3.8,0.221,Y,2023-11-06 09:18:00
+79,Lewis Group,Italian,Bakery,Hyderabad,Central,47.9355525,139.220417,4.02,0.196,,2023-09-21 13:06:00
+80,Glenn Ltd,Bakery,Chinese,Hyderabad,North,3.101090,-6.216079,3.39,0.164,,2023-12-01 11:16:00
+81,Ross Group,Fast Food,Chinese,Pune,Central,11.1734015,112.893630,3.73,0.291,0,2024-10-03 12:55:00
+82,"Macdonald, Washington and Barton",Healthy,Italian,Hyderabad,South,73.4613215,-52.536418,4.37,0.265,,2024-08-26 13:15:00
+83,Whitaker-Baker,North Indian,North Indian,Pune,West,-25.830924,-159.337632,3.75,0.177,,2023-05-23 19:40:00
+84,Berry-Potts,Bakery,South Indian,Mumbai,South,41.389820,84.314136,3.44,0.208,TRUE,2024-05-17 04:41:00
+85,"Poole, Hardy and Reyes",South Indian,Italian,Mumbai,West,13.757137,-54.356144,4.63,0.266,0,2023-02-24 13:12:00
+86,Franklin-Shelton,Italian,Chinese,Chennai,West,-52.7602235,139.411674,4.28,0.295,N,2024-05-22 17:06:00
+87,"Russo, Fleming and Singleton",Chinese,Fast Food,Mumbai,East,48.5876905,159.321893,3.09,0.253,Y,2023-11-30 23:03:00
+88,Vega Ltd,Healthy,Chinese,Pune,East,-32.671888,100.721986,4.19,0.225,TRUE,2024-07-29 23:06:00
+89,Mays-Gates,Healthy,Bakery,Bengaluru,North,5.015232,-135.482243,3.1,0.287,1,2024-10-14 16:20:00
+90,"Chen, Li and Tucker",Chinese,South Indian,Chennai,East,64.605668,83.571543,3.76,0.287,,2023-06-19 15:56:00
+91,"Baker, Reynolds and Martin",Chinese,South Indian,Bengaluru,South,-51.7047405,-44.989808,3.66,0.27,N,2023-07-01 01:26:00
+92,"Martin, Barajas and Chandler",Fast Food,Italian,Bengaluru,East,-47.734909,172.382433,3.53,0.188,TRUE,2023-04-13 12:35:00
+93,Burns Inc,Fast Food,North Indian,Mumbai,West,-36.2981065,-14.109015,3.09,0.296,TRUE,2023-12-22 22:53:00
+94,"Martinez, Roy and Olson",Bakery,North Indian,Chennai,North,8.191296,150.594318,3.04,0.184,Y,2024-07-14 10:54:00
+95,Eaton Inc,South Indian,Healthy,Bengaluru,North,63.8874565,-38.072309,3.98,0.256,0,2024-05-27 16:14:00
+96,Shannon-Hall,Healthy,Italian,Pune,West,-46.3491365,-60.001524,3.74,0.254,0,2023-02-18 09:31:00
+97,Tucker Inc,Italian,North Indian,Mumbai,West,87.3053665,-84.637202,3.37,0.242,1,2023-03-21 16:45:00
+98,"Holland, Hill and Duncan",North Indian,Fast Food,Bengaluru,South,88.6869085,90.135945,3.07,0.202,,2024-11-01 10:05:00
+99,Garcia-Mcpherson,Fast Food,North Indian,Hyderabad,South,23.6356485,-173.755057,4.5,0.277,,2024-04-29 00:38:00
+100,Hall Group,North Indian,North Indian,Chennai,South,-30.0128535,112.636069,3.32,0.182,N,2024-05-30 06:36:00
+101,Myers Group,Italian,Italian,Bengaluru,South,3.524141,-153.662502,3.56,0.169,TRUE,2023-02-11 14:36:00
+102,"West, Smith and Smith",North Indian,Italian,Bengaluru,West,-51.804766,34.017262,3.02,0.238,0,2023-10-22 11:34:00
+103,"Taylor, Robinson and Hatfield",South Indian,Healthy,Mumbai,North,-41.152006,-90.294360,4.48,0.157,N,2023-09-09 02:49:00
+104,Williams-Campbell,North Indian,South Indian,Hyderabad,East,-50.2712885,49.695384,3.23,0.214,FALSE,2023-12-26 13:35:00
+105,"Olson, Moore and Lewis",Italian,Chinese,Bengaluru,South,-88.8259845,-115.971674,3.32,0.227,1,2024-03-04 04:58:00
+106,"Gardner, Campbell and Ward",Italian,Italian,Delhi,North,49.2850565,-18.870860,3.82,0.284,0,2024-11-21 08:15:00
+107,Delgado-Perkins,South Indian,Italian,Pune,South,33.736500,-99.637174,4.13,0.167,1,2023-01-08 12:09:00
+108,Hood Inc,Fast Food,Italian,Chennai,Central,82.673909,9.097463,4.52,0.214,N,2023-01-03 10:53:00
+109,Smith Inc,North Indian,Bakery,Pune,West,41.7658775,14.062452,4.72,0.164,0,2024-01-28 15:29:00
+110,"Reed, Garcia and Jenkins",Chinese,Healthy,Chennai,North,-2.780795,2.921084,4.08,0.236,0,2023-08-24 23:45:00
+111,Daniel-Richardson,Fast Food,Chinese,Mumbai,West,-34.131158,-64.500946,3.03,0.255,Y,2023-03-25 14:17:00
+112,"Parks, Higgins and King",Fast Food,Chinese,Delhi,North,-33.1055435,59.220731,3.85,0.172,N,2023-04-21 18:01:00
+113,"Dawson, Evans and Boyd",Bakery,Chinese,Mumbai,East,20.083330,138.826493,3.06,0.262,N,2023-12-09 21:26:00
+114,"Ingram, Martinez and Miller",South Indian,Bakery,Chennai,Central,-49.366434,-147.376540,3.6,0.196,1,2024-10-30 02:12:00
+115,Garcia Group,Healthy,Chinese,Delhi,Central,65.7609195,37.317012,4.28,0.157,1,2023-08-15 06:29:00
+116,"Cole, Hess and Hubbard",South Indian,Italian,Delhi,North,-19.7993155,-169.892160,3.7,0.265,0,2023-01-07 10:46:00
+117,"Phelps, Bailey and Haley",South Indian,Italian,Pune,Central,-21.784318,97.112110,4.28,0.15,Y,2024-07-07 09:37:00
+118,Miller-Anderson,Italian,Italian,Bengaluru,Central,-10.258741,80.419602,3.73,0.246,0,2023-05-31 03:16:00
+119,Johnson LLC,Italian,North Indian,Pune,Central,-83.5200735,161.436161,3.02,0.273,Y,2023-12-16 23:53:00
+120,Hernandez Group,Healthy,South Indian,Hyderabad,North,9.515967,-102.662278,3.31,0.288,FALSE,2024-10-04 19:17:00
+121,"White, Woods and Mckinney",Healthy,Fast Food,Chennai,South,71.8373935,-3.947252,3.85,0.207,FALSE,2023-04-22 15:29:00
+122,"Juarez, Mccoy and Kelly",Fast Food,North Indian,Pune,East,63.834753,15.083260,4.09,0.293,Y,2023-08-31 23:31:00
+123,"Jimenez, Ferguson and Neal",North Indian,Bakery,Hyderabad,South,-5.382213,-85.228501,3.43,0.258,1,2024-08-26 02:51:00
+124,"Herrera, Martinez and Smith",Bakery,Bakery,Pune,Central,-76.9913785,-23.278799,4.09,0.223,0,2023-08-05 12:49:00
+125,"Hill, Valdez and Johnson",Bakery,Healthy,Delhi,South,-30.699814,-44.286945,,0.258,,2023-02-14 13:09:00
+126,Armstrong-Buckley,Healthy,Chinese,Delhi,North,-8.430348,-10.440109,4.27,0.297,Y,2023-12-09 19:29:00
+127,Wilson Inc,Bakery,Italian,Mumbai,East,26.1120745,-163.758154,4.68,0.28,1,2023-01-07 19:40:00
+128,Bennett Inc,Fast Food,Bakery,Delhi,South,-76.0845455,-174.673987,3.71,0.214,N,2024-10-30 06:13:00
+129,"Burton, Greene and Castillo",Italian,North Indian,Pune,North,-35.8534405,31.499822,3.2,0.297,0,2024-10-08 22:26:00
+130,"Hill, Pierce and Nguyen",North Indian,Fast Food,Pune,East,-88.854850,114.970513,4.42,0.227,1,2023-01-21 04:00:00
+131,Tate-Gonzalez,South Indian,Italian,Bengaluru,Central,6.275740,-127.068123,4.78,0.238,FALSE,2023-03-11 20:07:00
+132,Garcia Inc,North Indian,Bakery,Delhi,East,56.4858985,-2.732314,,0.157,,2023-07-21 04:38:00
+133,Chaney-Davis,North Indian,Chinese,Pune,West,89.7508695,-34.117495,4.24,0.219,,2024-05-17 16:55:00
+134,"Morse, Jackson and Mills",South Indian,Bakery,Bengaluru,East,82.1197935,108.212666,3.15,0.226,N,2023-04-13 03:35:00
+135,Jones-Chung,Bakery,Fast Food,Hyderabad,East,-70.1099935,-88.883976,3.6,0.196,FALSE,2023-01-29 16:45:00
+136,Salas Ltd,Chinese,Italian,Pune,West,61.178872,-115.785285,3.36,0.253,,2024-08-30 05:42:00
+137,Knight LLC,North Indian,South Indian,Mumbai,South,30.9558065,-168.720482,3.07,0.21,FALSE,2024-08-05 22:37:00
+138,"Jennings, Austin and Scott",Bakery,Fast Food,Pune,North,48.5081035,57.797703,4.43,0.203,FALSE,2023-02-19 16:55:00
+139,Miller and Sons,Healthy,Bakery,Delhi,West,83.249493,154.399434,3.19,0.212,Y,2024-04-29 06:27:00
+140,Green PLC,North Indian,Italian,Delhi,East,-39.728518,15.325401,3.97,0.189,TRUE,2024-04-05 09:37:00
+141,Novak Group,Fast Food,Fast Food,Pune,South,-84.0168345,168.289600,3.81,0.248,FALSE,2023-11-11 07:22:00
+142,"Ray, Bradley and Mitchell",Fast Food,Italian,Hyderabad,Central,-33.4301205,1.973049,3.42,0.177,,2023-05-29 01:13:00
+143,"Thompson, Bowman and Cochran",Chinese,Italian,Bengaluru,West,-8.864520,-12.652992,4.1,0.168,N,2024-01-26 16:45:00
+144,Mccarthy Group,Fast Food,South Indian,Bengaluru,North,61.357902,147.043905,4.04,0.205,,2024-11-25 01:16:00
+145,"Tanner, Rollins and Ortega",Italian,Fast Food,Mumbai,North,-30.310672,-94.340657,4.13,0.156,,2024-10-18 13:25:00
+146,"Baker, Boyer and Smith",Healthy,Italian,Hyderabad,South,48.659063,-96.846185,3.24,0.185,TRUE,2023-12-04 11:18:00
+147,Jackson Ltd,Fast Food,Bakery,Mumbai,South,-83.666117,23.904240,3.76,0.266,0,2024-05-17 08:39:00
+148,"Gregory, Henson and Hess",South Indian,Italian,Pune,West,79.039171,-173.852696,3.91,0.278,,2024-08-26 06:43:00
+149,Dunn-Owens,Fast Food,South Indian,Delhi,North,-62.139123,96.673419,4.34,0.171,0,2023-08-15 02:49:00
+150,"Martin, Bailey and Myers",North Indian,Healthy,Pune,North,-48.971487,16.043233,4.16,0.235,Y,2023-10-11 23:24:00
+151,"Torres, Horn and Aguilar",Healthy,Bakery,Chennai,Central,57.1672855,82.306258,4.46,0.197,FALSE,2024-05-08 23:38:00
+152,Marshall-Pierce,Fast Food,North Indian,Chennai,East,-29.0069335,-80.073151,3.89,0.195,FALSE,2023-03-17 04:17:00
+153,Ray-Bush,South Indian,Chinese,Chennai,North,-11.7166265,-53.063309,3.54,0.225,Y,2024-12-13 02:36:00
+154,Moses LLC,Healthy,Fast Food,Bengaluru,North,-13.098897,103.796943,4.24,0.285,1,2024-04-15 05:23:00
+155,Gonzalez-Perez,Healthy,South Indian,Bengaluru,East,-88.3884465,95.936104,4.11,0.239,TRUE,2024-01-18 15:23:00
+156,"Brown, Smith and Barber",Chinese,South Indian,Chennai,North,31.4377185,135.939953,3.63,0.236,,2024-02-21 18:17:00
+157,"Clark, Conley and Arnold",Healthy,Fast Food,Pune,West,17.307805,166.683770,4.6,0.197,1,2023-01-17 13:38:00
+158,Phillips LLC,Bakery,Chinese,Hyderabad,South,-60.017013,1.227378,4.37,0.27,,2023-03-03 02:18:00
+159,"Lopez, Barton and Bennett",Bakery,Fast Food,Bengaluru,East,-60.814604,150.696739,3.54,0.189,FALSE,2023-07-17 11:54:00
+160,Wood Ltd,North Indian,Healthy,Delhi,West,-17.093746,-125.001202,4.51,0.27,1,2024-06-01 18:37:00
+161,Turner and Sons,Bakery,North Indian,Chennai,North,14.8861825,98.292411,4.11,0.294,,2024-10-04 20:00:00
+162,Adams-Chaney,South Indian,Fast Food,Mumbai,South,3.402576,150.950655,3.67,0.269,Y,2024-10-11 02:38:00
+163,"Conrad, Davis and Greene",Healthy,South Indian,Bengaluru,South,-22.6860315,-149.227553,3.16,0.219,1,2024-02-10 01:48:00
+164,Smith Inc,Chinese,Healthy,Chennai,North,-39.8353555,3.895849,3.17,0.208,N,2023-11-06 11:24:00
+165,Curry Inc,South Indian,North Indian,Delhi,North,40.793851,142.386466,3.51,0.201,1,2023-09-14 13:17:00
+166,Rivera LLC,South Indian,Fast Food,Hyderabad,South,59.089213,132.590422,4.28,0.151,TRUE,2023-03-27 15:10:00
+167,"Cervantes, Carter and Rocha",Italian,North Indian,Mumbai,West,8.616979,133.963177,4.2,0.289,N,2023-09-23 16:07:00
+168,"Fletcher, Smith and Gardner",North Indian,Healthy,Chennai,North,-50.0227195,62.904512,3.09,0.289,N,2024-06-22 02:37:00
+169,Harris-Wagner,North Indian,Italian,Bengaluru,North,-57.7087855,175.278174,3.79,0.201,Y,2023-03-18 08:51:00
+170,Hicks PLC,North Indian,South Indian,Chennai,North,32.2032715,-165.512914,4.37,0.194,0,2023-04-20 16:38:00
+171,Miller Group,Fast Food,Chinese,Delhi,East,-1.8999535,-29.552524,3.72,0.188,1,2023-03-29 18:02:00
+172,Brown-Waters,South Indian,South Indian,Chennai,North,17.3457425,32.965780,4.72,0.215,1,2024-01-04 00:25:00
+173,"Martin, Hardy and Hancock",Healthy,North Indian,Mumbai,South,33.043123,3.031153,3.93,0.286,,2024-12-14 10:54:00
+174,"Brown, Duncan and Mitchell",Bakery,Chinese,Hyderabad,East,-73.988525,50.627206,3.21,0.232,1,2024-08-02 02:01:00
+175,Cook-Black,Fast Food,South Indian,Chennai,North,-23.694528,-174.228991,3.59,0.163,Y,2024-08-21 03:57:00
+176,Miranda Inc,Fast Food,Fast Food,Chennai,West,-13.463978,10.673179,4.23,0.191,0,2023-04-26 09:54:00
+177,Martinez-Romero,Healthy,Fast Food,Bengaluru,South,-43.773562,-79.860373,3.51,0.254,0,2024-02-11 19:42:00
+178,"Green, Davis and Harmon",South Indian,Italian,Hyderabad,South,-62.5910125,-133.907287,3.34,0.173,FALSE,2023-05-04 05:32:00
+179,Green-Simon,South Indian,North Indian,Chennai,West,86.2672605,-41.022597,3.05,0.285,1,2024-10-24 10:19:00
+180,"Cobb, Terry and Mcmillan",Fast Food,Fast Food,Chennai,East,-11.1182665,-158.358516,3.55,0.21,,2024-10-01 10:08:00
+181,Dixon-Lane,South Indian,Healthy,Hyderabad,West,-68.8494355,-174.804105,3.13,0.169,N,2024-11-08 13:09:00
+182,Ray Inc,North Indian,Italian,Pune,South,-69.037627,-79.876648,4.6,0.293,,2024-12-11 21:49:00
+183,"Buckley, Copeland and Butler",South Indian,Healthy,Hyderabad,North,-13.171511,-178.701703,3.22,0.258,Y,2024-07-27 22:20:00
+184,"Greene, Vargas and Brooks",Fast Food,Chinese,Bengaluru,North,77.2062295,-30.643109,4.61,0.183,1,2024-01-03 13:44:00
+185,Good-Obrien,Chinese,South Indian,Hyderabad,West,32.4759565,-120.978352,4.38,0.188,0,2023-01-13 04:16:00
+186,Murillo Ltd,Italian,South Indian,Mumbai,East,-23.2797945,-165.944209,4.59,0.221,Y,2023-03-25 21:29:00
+187,Barnes and Sons,Chinese,South Indian,Mumbai,South,-39.855803,83.015284,4.8,0.174,0,2024-07-03 14:28:00
+188,"Perez, Townsend and Boyd",Italian,North Indian,Pune,South,-61.464971,-150.833180,4.44,0.266,N,2024-09-25 06:45:00
+189,Maldonado-Chavez,Fast Food,Healthy,Chennai,West,-43.1169405,128.306743,4.79,0.224,TRUE,2024-12-24 14:33:00
+190,"Gonzalez, Mitchell and Allen",Fast Food,Bakery,Chennai,East,4.586391,-107.537896,3.71,0.223,1,2023-05-18 02:33:00
+191,"Gross, Castillo and Lewis",Chinese,Healthy,Bengaluru,Central,36.9951945,-33.199641,3.81,0.153,FALSE,2023-08-12 23:51:00
+192,Lewis Inc,North Indian,Bakery,Bengaluru,West,71.906432,89.701211,4.59,0.257,1,2024-05-19 04:56:00
+193,"Simmons, Estes and Porter",Chinese,Chinese,Delhi,North,-74.219298,-151.312107,4.44,0.215,0,2023-10-24 02:12:00
+194,"Jones, Bentley and Middleton",Fast Food,Bakery,Pune,North,-72.416508,31.444472,4.34,0.239,,2024-05-12 14:49:00
+195,"Ward, Casey and Dunn",Fast Food,Fast Food,Chennai,South,-9.245895,-122.401127,4.72,0.255,0,2023-08-13 18:57:00
+196,"Horne, Hurley and Short",Fast Food,Fast Food,Chennai,North,44.9800685,-104.191916,3.19,0.286,FALSE,2024-10-25 06:32:00
+197,"Thompson, Jones and Mckinney",Fast Food,Bakery,Chennai,East,-16.9227765,-96.391156,4.13,0.227,N,2024-05-04 01:21:00
+198,Schroeder and Sons,Italian,Healthy,Delhi,North,31.0245085,-99.845527,3.33,0.162,Y,2024-09-20 20:33:00
+199,Taylor-Hartman,Bakery,Italian,Delhi,West,-20.1739515,-50.596322,4.04,0.239,1,2024-11-21 02:45:00
+200,Cruz LLC,Italian,Bakery,Chennai,Central,-86.431562,133.379953,3.34,0.202,TRUE,2024-04-25 22:22:00
+201,"Acosta, Lowery and Reyes",Fast Food,Fast Food,Bengaluru,South,-74.0761605,82.007948,3.89,0.235,TRUE,2024-11-05 19:43:00
+202,"Higgins, Mahoney and Blair",Healthy,Chinese,Hyderabad,East,11.8049075,145.945903,4.1,0.207,0,2024-03-02 14:09:00
+203,Patel-King,Healthy,Chinese,Mumbai,West,67.830702,124.566101,4.38,0.204,1,2024-09-17 08:46:00
+204,Richardson-Salazar,South Indian,South Indian,Hyderabad,South,-41.981368,94.847665,3.5,0.237,TRUE,2023-12-11 03:26:00
+205,Ponce-Scott,North Indian,Bakery,Mumbai,South,19.3081785,-105.407962,4.47,0.242,TRUE,2023-12-26 10:02:00
+206,"Nguyen, Phillips and Johnson",Chinese,North Indian,Bengaluru,Central,40.696588,20.142151,4.05,0.154,TRUE,2024-02-25 16:59:00
+207,Hartman Group,Healthy,Italian,Delhi,North,60.368367,155.936970,3.62,0.21,FALSE,2023-12-31 20:39:00
+208,"Espinoza, Navarro and Jackson",Chinese,North Indian,Bengaluru,East,49.266885,36.303478,4.7,0.186,1,2023-05-26 04:48:00
+209,Schmidt and Sons,Italian,Healthy,Mumbai,West,33.8486515,-74.226212,3.47,0.268,TRUE,2024-04-22 01:20:00
+210,"Shelton, Morris and Fry",South Indian,South Indian,Chennai,West,-29.893481,1.770579,3.36,0.167,TRUE,2024-06-12 02:44:00
+211,Jackson PLC,Healthy,Fast Food,Pune,West,-77.4891155,129.959159,3.11,0.263,,2023-12-28 10:29:00
+212,Perez-Montoya,Chinese,South Indian,Chennai,Central,-38.3105665,48.886864,3.8,0.161,TRUE,2023-06-15 15:03:00
+213,Nixon LLC,Healthy,Healthy,Chennai,East,34.354246,-160.548677,3.57,0.284,0,2023-08-11 02:24:00
+214,Silva-Kramer,South Indian,North Indian,Bengaluru,Central,-85.761979,-147.870961,3.55,0.299,0,2024-05-30 13:44:00
+215,"Sanchez, Wise and Smith",Bakery,Healthy,Mumbai,South,55.0530385,-39.880392,4.75,0.267,N,2024-08-18 08:51:00
+216,"Green, Collins and Erickson",Fast Food,North Indian,Chennai,West,-77.246896,67.087232,,0.27,FALSE,2023-09-07 14:15:00
+217,Davies and Sons,Bakery,North Indian,Delhi,Central,42.2104955,41.566493,3.98,0.169,1,2024-05-27 05:13:00
+218,Bennett-Sheppard,North Indian,Italian,Delhi,Central,-43.7642715,73.094800,3.14,0.17,,2023-09-26 14:25:00
+219,"Waters, Conner and Davis",Italian,Bakery,Bengaluru,North,-44.7076705,111.571515,3.76,0.178,,2023-03-07 09:36:00
+220,Sullivan LLC,North Indian,South Indian,Hyderabad,North,-6.4697285,101.406011,4.09,0.294,FALSE,2023-10-14 06:24:00
+221,Strickland and Sons,Bakery,South Indian,Chennai,South,41.578668,67.137530,3.56,0.196,0,2023-04-17 01:28:00
+222,"Mueller, Giles and Reynolds",North Indian,Chinese,Pune,East,-4.316519,-146.358350,3.65,0.15,FALSE,2023-01-13 21:28:00
+223,Chavez-Nguyen,Chinese,Chinese,Delhi,East,82.7479885,-11.565765,3.2,0.236,Y,2023-05-17 01:36:00
+224,Waters Inc,Bakery,Bakery,Chennai,North,-16.136456,-113.614246,3.85,0.252,0,2024-09-03 12:11:00
+225,"Cooper, Becker and Alvarez",South Indian,Bakery,Pune,Central,-24.590662,43.409126,4.36,0.223,N,2023-03-20 17:50:00
+226,"Webb, Stanley and Lee",Fast Food,Italian,Hyderabad,West,-55.784298,-50.749689,4.6,0.286,,2024-04-09 16:45:00
+227,Pena PLC,Healthy,North Indian,Pune,North,5.960683,149.187700,3.86,0.225,Y,2024-04-20 22:24:00
+228,Dennis-Stokes,North Indian,Fast Food,Bengaluru,West,80.924805,160.459918,3.23,0.183,,2024-04-12 21:57:00
+229,Garcia-Moran,Italian,South Indian,Chennai,Central,66.171799,-101.915010,4.44,0.191,,2023-04-30 20:02:00
+230,Gomez and Sons,Fast Food,Healthy,Delhi,Central,-14.8082335,103.671984,3.57,0.247,N,2024-04-12 07:37:00
+231,"Sloan, Murphy and Hartman",North Indian,Italian,Delhi,West,-19.561150,94.756904,3.2,0.249,TRUE,2023-11-16 23:07:00
+232,Ruiz Group,Chinese,Italian,Bengaluru,South,-11.411055,135.369590,3.45,0.226,1,2024-09-26 06:34:00
+233,"Mora, Banks and Pacheco",Chinese,South Indian,Hyderabad,East,80.963898,119.416450,3.19,0.258,TRUE,2023-02-03 12:20:00
+234,Perez Group,South Indian,Fast Food,Delhi,North,33.3006895,-53.706783,4.49,0.217,FALSE,2024-11-21 19:14:00
+235,Lambert and Sons,Fast Food,Chinese,Delhi,East,28.206830,149.079307,3.45,0.284,0,2023-01-09 04:47:00
+236,"Henderson, Little and Park",Healthy,Chinese,Bengaluru,North,28.7078175,20.950411,4.33,0.219,1,2024-11-03 09:31:00
+237,"Weaver, Harris and Smith",Bakery,Bakery,Mumbai,South,56.8055065,-81.943548,3.1,0.258,Y,2023-08-13 22:59:00
+238,Ramirez-Hale,North Indian,Italian,Delhi,West,60.3424825,-127.610461,3.48,0.256,FALSE,2024-11-24 14:06:00
+239,Robinson-Sparks,Fast Food,Fast Food,Pune,West,49.1865795,26.358587,3.84,0.289,FALSE,2023-06-18 21:59:00
+240,Baker-Smith,North Indian,Healthy,Chennai,Central,51.2956985,-89.262296,4.62,0.261,FALSE,2024-04-11 04:46:00
+241,"Olson, Christensen and Henry",Healthy,Healthy,Chennai,West,-49.7663235,-163.887166,4.2,0.197,1,2023-03-11 04:15:00
+242,Wheeler LLC,Chinese,Bakery,Mumbai,East,47.4649675,143.401979,3.53,0.231,N,2023-01-16 09:32:00
+243,Bowers LLC,Chinese,Fast Food,Bengaluru,East,35.0236945,123.072915,,0.211,TRUE,2023-03-25 17:48:00
+244,Estes-Salas,South Indian,Healthy,Pune,South,-28.5658885,-95.618228,3.46,0.195,N,2024-05-24 02:01:00
+245,"Williams, Gonzalez and Callahan",North Indian,North Indian,Chennai,Central,37.208560,-73.188404,3.47,0.297,N,2024-05-29 15:48:00
+246,Paul-Smith,Chinese,Italian,Pune,Central,-18.2841545,150.386653,4.4,0.254,0,2024-11-06 10:01:00
+247,Johnson-Barry,South Indian,Chinese,Mumbai,East,-74.388003,130.139461,,0.249,0,2024-06-26 19:19:00
+248,"Garcia, Singleton and Bowman",Fast Food,Healthy,Hyderabad,Central,-58.871545,-32.717113,4.57,0.263,Y,2024-10-16 01:56:00
+249,Hunt-York,Healthy,Italian,Delhi,East,-21.5354665,61.198140,4.44,0.244,1,2024-05-27 20:08:00
+250,Martin PLC,South Indian,Chinese,Hyderabad,East,-22.992997,-68.045076,3.26,0.153,,2024-06-24 04:08:00
+251,Garcia and Sons,North Indian,Fast Food,Bengaluru,East,-5.9561445,-4.737164,4.67,0.265,1,2023-10-23 08:21:00
+252,"Cooper, Montes and Heath",Bakery,Italian,Mumbai,South,14.949752,-162.733094,3.45,0.165,Y,2023-05-08 05:40:00
+253,"Taylor, Williams and Chen",Italian,North Indian,Pune,Central,61.457056,-165.671768,3.66,0.187,FALSE,2023-09-05 15:42:00
+254,Wilson-Escobar,Italian,Healthy,Delhi,East,-35.8142815,68.791909,3.36,0.194,Y,2024-12-06 11:17:00
+255,Castro-Walker,Bakery,South Indian,Mumbai,North,85.545759,-74.101983,3.68,0.169,TRUE,2023-12-11 08:48:00
+256,Collins-Fields,North Indian,Bakery,Bengaluru,North,-78.317366,-97.814237,4.15,0.154,FALSE,2023-01-12 16:41:00
+257,"Smith, Brown and Stanley",South Indian,North Indian,Bengaluru,Central,-5.164889,4.218683,3.45,0.204,,2023-05-12 06:01:00
+258,"Palmer, Rocha and Brady",Bakery,Healthy,Bengaluru,East,-55.2786185,-168.731463,4.76,0.268,0,2024-03-24 22:19:00
+259,"Johnson, Carlson and Davis",Fast Food,Chinese,Mumbai,North,-43.7200435,-22.393650,4.35,0.197,0,2024-03-10 04:05:00
+260,Mathews Ltd,Chinese,Bakery,Bengaluru,West,-49.532924,-131.155332,4.5,0.236,TRUE,2024-09-17 10:37:00
+261,Griffin Group,North Indian,Fast Food,Delhi,South,-47.405159,71.390922,4.32,0.278,TRUE,2023-12-04 10:44:00
+262,Baker-Johnson,Fast Food,South Indian,Mumbai,East,62.5442615,29.104416,3.79,0.229,Y,2024-10-18 21:19:00
+263,Reese LLC,Fast Food,Fast Food,Delhi,South,-11.8140415,-61.579638,3.11,0.295,FALSE,2023-07-07 06:32:00
+264,Smith Group,South Indian,Healthy,Mumbai,South,81.4324275,79.890120,3.35,0.227,,2024-12-11 07:02:00
+265,Garcia-Johnson,South Indian,Fast Food,Chennai,West,89.337048,-24.982098,4.33,0.155,TRUE,2023-01-29 16:55:00
+266,Strickland and Sons,Fast Food,North Indian,Delhi,West,77.0415995,3.177905,3.08,0.253,TRUE,2024-10-07 15:23:00
+267,Miller Group,Chinese,South Indian,Mumbai,South,38.733292,-146.988826,3.65,0.177,FALSE,2024-12-21 23:56:00
+268,Figueroa-Smith,Healthy,Chinese,Pune,West,22.1392975,-122.704808,3.89,0.209,Y,2024-08-24 08:22:00
+269,Rice-Stewart,North Indian,Italian,Bengaluru,Central,-45.251799,76.996894,3.55,0.208,1,2024-06-28 17:26:00
+270,Larsen-King,Bakery,Bakery,Mumbai,East,-50.9029225,-14.963666,3.7,0.205,0,2024-01-09 07:05:00
+271,"Davidson, Wall and Knight",Fast Food,Chinese,Pune,South,-21.942035,159.710662,3.83,0.248,FALSE,2024-01-24 00:42:00
+272,Patton and Sons,Chinese,North Indian,Hyderabad,East,41.831320,18.969232,3.18,0.174,FALSE,2024-01-05 08:38:00
+273,"Bates, Jenkins and Hammond",North Indian,Healthy,Delhi,East,85.419673,-52.918195,4.32,0.159,1,2024-09-21 07:35:00
+274,Brown LLC,North Indian,Italian,Mumbai,West,19.1898545,176.336276,4.52,0.171,N,2023-05-20 12:18:00
+275,Robertson-Erickson,Italian,Chinese,Chennai,North,-77.395994,33.067890,4.69,0.169,TRUE,2024-02-08 01:56:00
+276,Gibson-Robinson,South Indian,Bakery,Mumbai,West,-55.7528545,141.644881,3.24,0.195,FALSE,2024-11-21 21:39:00
+277,"Robinson, Garcia and Kirby",South Indian,Italian,Hyderabad,West,52.0471645,-135.056193,3.92,0.236,Y,2023-06-09 23:24:00
+278,Foley Group,Fast Food,Chinese,Mumbai,West,80.673703,78.329747,3.77,0.212,N,2023-09-26 11:28:00
+279,Peterson LLC,Bakery,Fast Food,Delhi,South,-59.928291,-174.137014,4.09,0.276,Y,2024-06-03 03:57:00
+280,Valencia Ltd,Italian,Bakery,Mumbai,South,-17.300449,107.832930,3.81,0.252,1,2024-11-05 04:54:00
+281,Johnson-Craig,Healthy,South Indian,Pune,South,-83.2460045,121.401224,4.31,0.285,0,2023-06-15 07:16:00
+282,"Phelps, Bailey and Sawyer",South Indian,Italian,Hyderabad,East,-24.9370885,24.856027,4.74,0.165,TRUE,2024-02-23 09:14:00
+283,Howard PLC,Chinese,Bakery,Chennai,East,-58.987523,26.692642,3.05,0.2,1,2024-01-11 03:23:00
+284,White-Alvarez,North Indian,North Indian,Bengaluru,Central,33.479156,140.041714,3.29,0.203,,2023-05-20 04:28:00
+285,"Pittman, Brown and Roach",Healthy,Bakery,Hyderabad,South,84.1437585,165.373558,4.29,0.252,N,2023-12-13 20:03:00
+286,"Johnson, Schroeder and Baker",Bakery,South Indian,Delhi,East,79.9179645,-175.701969,3.31,0.267,,2024-03-06 16:44:00
+287,"Scott, Hernandez and Buckley",South Indian,Chinese,Pune,South,-24.2210145,-143.084457,4.43,0.183,,2023-08-23 21:48:00
+288,James-Franco,Italian,Fast Food,Pune,North,79.867587,-35.010080,3.35,0.241,TRUE,2024-08-15 06:23:00
+289,Griffith PLC,North Indian,South Indian,Bengaluru,East,-54.996708,56.898500,4.48,0.15,1,2024-03-27 05:38:00
+290,Baldwin-Morales,Chinese,Bakery,Bengaluru,West,-4.6256875,113.881533,3.46,0.208,TRUE,2024-08-05 22:44:00
+291,Lang Inc,South Indian,Healthy,Pune,East,-19.4249525,-133.700730,4.75,0.16,Y,2024-01-01 16:15:00
+292,Pena Inc,North Indian,Fast Food,Mumbai,West,83.817845,-52.394689,,0.234,0,2023-03-09 18:58:00
+293,"Heath, Small and Ramirez",Chinese,North Indian,Pune,East,-30.7742115,91.675702,3.4,0.243,,2023-08-27 15:56:00
+294,Mills Inc,South Indian,Fast Food,Pune,East,-32.5162785,-156.762824,4.53,0.298,1,2023-10-09 02:55:00
+295,Salazar and Sons,South Indian,Bakery,Chennai,East,-85.505153,-7.238197,3.56,0.25,FALSE,2024-01-18 20:42:00
+296,"Clark, Reed and Lopez",South Indian,Italian,Chennai,West,-24.579193,75.999986,4.49,0.257,,2023-01-01 20:44:00
+297,"Booth, Thompson and Dunn",Bakery,Bakery,Bengaluru,East,41.2096145,52.296734,3.85,0.163,,2023-06-10 04:08:00
+298,Rose-Austin,Chinese,South Indian,Hyderabad,North,-75.294884,-10.442458,4.05,0.239,Y,2024-10-20 23:52:00
+299,Sweeney-Weber,South Indian,South Indian,Delhi,Central,46.0152135,117.784530,4.03,0.272,0,2024-09-27 21:17:00
+300,Ortiz Ltd,Italian,Chinese,Hyderabad,East,4.524840,-172.079764,4.3,0.268,1,2023-01-31 06:44:00
+301,Clark and Sons,Fast Food,Fast Food,Mumbai,Central,71.301684,13.287417,3.35,0.269,,2023-01-04 20:39:00
+302,Richardson-Williams,South Indian,Healthy,Delhi,South,49.551409,43.276067,4.69,0.168,1,2023-08-15 00:49:00
+303,"Fields, Cantu and Rios",Italian,Bakery,Bengaluru,South,81.2770435,-147.836820,3.8,0.227,N,2024-05-11 11:04:00
+304,Fisher-White,Fast Food,Chinese,Delhi,West,42.8327655,0.318763,4.23,0.263,1,2023-11-07 11:26:00
+305,"Novak, Taylor and Morales",South Indian,South Indian,Bengaluru,East,49.982332,-76.851961,3.53,0.212,N,2023-10-26 23:06:00
+306,Hartman-Wheeler,Chinese,North Indian,Pune,West,-59.1838965,-93.920901,3.23,0.287,N,2023-10-22 23:32:00
+307,Horn LLC,Bakery,Fast Food,Mumbai,South,-47.5684315,100.830608,3.07,0.265,0,2023-11-28 01:34:00
+308,Jones LLC,South Indian,North Indian,Chennai,East,-1.8882965,-36.824531,4.72,0.282,N,2023-09-25 22:36:00
+309,Day LLC,Healthy,Fast Food,Mumbai,South,87.099429,12.971953,4.67,0.166,0,2024-01-22 15:19:00
+310,"Trujillo, Williams and Watson",Fast Food,Bakery,Delhi,East,6.786393,2.951507,4.74,0.235,TRUE,2024-12-14 12:17:00
+311,"Cook, Burton and Whitney",Healthy,North Indian,Hyderabad,Central,-14.1984895,-62.081007,3.57,0.209,1,2024-03-23 15:37:00
+312,"Johnson, Vasquez and Smith",Fast Food,Italian,Chennai,West,-3.9799395,-79.874336,3.27,0.185,1,2024-08-15 15:21:00
+313,Carpenter LLC,Italian,North Indian,Hyderabad,Central,65.7083125,7.444608,4.1,0.295,N,2023-10-13 19:37:00
+314,Oneal PLC,Chinese,Chinese,Mumbai,West,48.8541605,-161.237088,4.58,0.228,TRUE,2023-05-31 08:49:00
+315,Chase Inc,Chinese,Italian,Mumbai,Central,-46.8180725,161.980668,4.78,0.194,1,2024-05-09 21:26:00
+316,"Huber, Adams and Hall",Fast Food,Healthy,Hyderabad,East,24.1977345,-41.231850,3.36,0.206,FALSE,2024-08-16 06:05:00
+317,Smith-Nunez,Healthy,North Indian,Pune,North,67.6216405,-75.495019,4.62,0.25,0,2023-06-12 16:01:00
+318,Marsh-Allen,South Indian,Chinese,Mumbai,East,68.219130,110.747009,4.74,0.284,1,2023-07-09 02:28:00
+319,Bush Group,Healthy,Chinese,Mumbai,East,-18.9148515,-164.416806,,0.249,,2024-08-12 11:54:00
+320,Pitts-Young,Chinese,South Indian,Hyderabad,South,-47.8915885,-118.882401,3.21,0.266,TRUE,2024-01-25 00:40:00
+321,Clark Inc,North Indian,Healthy,Bengaluru,South,-35.9641085,-106.649167,4.04,0.288,FALSE,2024-07-04 07:15:00
+322,Patterson-Ewing,North Indian,South Indian,Pune,South,62.8091585,156.690702,4.18,0.161,0,2023-09-09 21:44:00
+323,White-Garcia,Fast Food,Chinese,Pune,East,-11.237705,116.724822,3.61,0.26,,2024-07-02 09:06:00
+324,"Gray, Medina and Massey",Italian,Healthy,Hyderabad,East,25.7647025,-75.539695,4.6,0.272,FALSE,2023-01-29 17:00:00
+325,Ramos-Moore,Italian,North Indian,Bengaluru,South,-34.601201,-33.737439,,0.268,Y,2023-09-11 15:11:00
+326,Baker-Taylor,Fast Food,North Indian,Bengaluru,East,78.204971,-55.191689,4.79,0.299,TRUE,2023-10-18 06:43:00
+327,Mitchell-Jones,Bakery,Healthy,Pune,East,-3.935303,74.398553,4.01,0.186,TRUE,2024-12-20 15:38:00
+328,Phillips Ltd,Italian,Bakery,Pune,East,-84.6264155,-164.647235,3.34,0.27,Y,2023-01-07 11:05:00
+329,Anderson-Edwards,Italian,North Indian,Delhi,West,-10.8819385,65.376330,4.75,0.172,N,2024-07-06 17:02:00
+330,Garcia Group,Chinese,South Indian,Delhi,Central,69.3370525,49.896210,3.12,0.188,,2024-09-10 17:10:00
+331,"Thomas, Pierce and Velazquez",Chinese,Bakery,Hyderabad,West,-5.228809,130.237510,3.85,0.176,TRUE,2024-10-10 05:29:00
+332,Black-Flores,Fast Food,Healthy,Mumbai,West,62.8580035,145.907331,3.37,0.285,FALSE,2023-06-13 04:11:00
+333,Bass-Rodriguez,Bakery,Healthy,Delhi,Central,-31.0555635,34.787056,,0.182,N,2023-05-22 22:35:00
+334,Thompson LLC,Chinese,Healthy,Chennai,South,-15.8806255,-42.033555,3.01,0.213,,2024-05-09 02:25:00
+335,Gonzalez-Ortega,Bakery,Italian,Delhi,East,3.197963,-36.623738,4.49,0.209,1,2023-10-31 10:46:00
+336,Harris-Brown,North Indian,North Indian,Pune,East,34.5754885,45.175876,3.99,0.253,,2023-11-14 12:38:00
+337,"Robinson, Vega and Bryan",Healthy,Bakery,Pune,East,-62.7106035,-176.853930,4.18,0.263,FALSE,2024-02-14 12:42:00
+338,Nunez Ltd,Chinese,Italian,Pune,East,-80.743938,-47.095385,4.3,0.157,FALSE,2023-12-28 04:17:00
+339,"Everett, White and Hopkins",Healthy,Bakery,Bengaluru,North,21.8866255,-176.655599,3.9,0.238,Y,2023-11-15 11:14:00
+340,"Nguyen, Moore and Garcia",North Indian,Chinese,Delhi,West,-25.799708,-154.398758,4.67,0.243,Y,2024-06-15 16:53:00
+341,Cuevas PLC,South Indian,Italian,Hyderabad,South,-0.035524,19.915112,3.24,0.195,N,2023-10-10 04:50:00
+342,Dunlap LLC,Fast Food,Chinese,Mumbai,Central,-81.531720,6.538835,3.01,0.212,TRUE,2024-09-13 05:48:00
+343,Stein PLC,South Indian,Bakery,Hyderabad,West,-30.9574155,32.400362,4.49,0.215,TRUE,2024-12-03 09:24:00
+344,Jones-Gomez,Chinese,Italian,Bengaluru,East,-73.558366,54.628187,3.11,0.18,0,2023-02-08 08:23:00
+345,Silva Ltd,North Indian,South Indian,Mumbai,Central,47.7740075,60.931262,4.44,0.232,0,2023-07-14 19:20:00
+346,Johnson-Brooks,North Indian,North Indian,Mumbai,West,-53.6922365,-92.041778,,0.189,1,2023-01-22 13:40:00
+347,Hayes-Nichols,Fast Food,Italian,Delhi,South,-24.970360,-101.142218,3.45,0.206,Y,2024-12-14 09:52:00
+348,Kim-Evans,North Indian,Chinese,Delhi,North,-7.5907495,79.639965,3.28,0.212,Y,2024-04-13 08:38:00
+349,Chandler-King,Chinese,North Indian,Delhi,East,-31.9952275,34.846285,3.82,0.294,0,2024-07-13 06:49:00
+350,Hogan and Sons,Bakery,South Indian,Chennai,South,-78.729733,-36.868988,3.9,0.202,1,2024-02-11 14:28:00
+351,Taylor PLC,South Indian,Healthy,Hyderabad,West,70.477894,68.945367,3.78,0.257,TRUE,2024-08-11 12:07:00
+352,Wiley-Ware,Chinese,North Indian,Chennai,East,59.2158695,-70.976324,4.59,0.248,TRUE,2023-05-25 11:09:00
+353,"Lawrence, Maldonado and Rubio",Fast Food,Fast Food,Chennai,West,-55.027974,-5.782090,3.7,0.299,1,2024-03-18 04:24:00
+354,Richardson PLC,Bakery,Italian,Delhi,East,-16.1173445,-39.172839,4.55,0.256,Y,2023-06-22 20:12:00
+355,Burke-Peters,Chinese,South Indian,Mumbai,East,77.673068,56.604418,3.71,0.229,,2024-01-06 03:59:00
+356,Owens Ltd,Italian,Fast Food,Pune,West,57.503510,72.101981,4.74,0.283,N,2023-02-19 03:05:00
+357,Ramirez-Brown,Healthy,Italian,Bengaluru,Central,13.917666,136.399729,3.24,0.241,FALSE,2023-03-01 23:11:00
+358,Kelley Inc,Healthy,South Indian,Hyderabad,Central,-84.086301,122.998513,3.56,0.178,TRUE,2024-11-07 15:30:00
+359,Thompson-Melendez,Healthy,Healthy,Mumbai,South,9.9004155,-147.642256,3.18,0.246,FALSE,2024-08-08 01:24:00
+360,White-Holmes,Italian,South Indian,Chennai,South,-0.752761,-135.416051,3.49,0.272,FALSE,2023-10-05 14:14:00
+361,Cruz-Small,Chinese,Italian,Chennai,East,-13.3221245,64.176807,3.33,0.183,N,2023-08-30 20:32:00
+362,Conrad-Cordova,South Indian,Chinese,Mumbai,North,-70.605017,68.460514,4.77,0.26,,2024-01-28 04:22:00
+363,Perez-Peterson,North Indian,South Indian,Delhi,Central,16.075494,-66.500743,3.43,0.246,Y,2023-11-18 10:41:00
+364,"Young, Williamson and Brown",Bakery,Chinese,Hyderabad,North,86.314133,-130.169575,4.36,0.159,1,2023-10-17 18:03:00
+365,Moore Group,Italian,Chinese,Delhi,South,5.6388265,-31.681370,3.34,0.152,1,2024-09-06 07:14:00
+366,Townsend PLC,North Indian,Healthy,Chennai,West,-22.4366045,-71.114401,4.56,0.246,,2024-08-01 20:45:00
+367,Chavez Group,Chinese,Healthy,Pune,North,-76.4357955,-137.826336,3.04,0.163,1,2024-09-26 00:24:00
+368,Levy PLC,South Indian,Bakery,Pune,South,69.569754,-104.779061,3.87,0.255,0,2023-09-05 04:24:00
+369,Roberts PLC,Italian,Chinese,Pune,South,17.4310865,144.320504,3.85,0.189,N,2024-02-12 02:12:00
+370,"Gill, Brown and Mclean",Chinese,Chinese,Pune,South,86.654274,-104.823486,3.23,0.234,0,2023-04-20 09:50:00
+371,"Robertson, Jones and Mendoza",Italian,Italian,Pune,Central,-27.0040735,-69.888054,4.69,0.201,N,2024-11-30 08:25:00
+372,"Chavez, Burgess and Wagner",Healthy,South Indian,Hyderabad,West,86.684541,-87.553397,3.39,0.19,TRUE,2024-04-18 01:44:00
+373,"Taylor, Vargas and Lucas",North Indian,South Indian,Mumbai,South,-56.576229,42.145279,4.73,0.275,TRUE,2023-08-16 21:43:00
+374,Davis Ltd,Fast Food,Healthy,Mumbai,West,56.970707,-156.234293,4.02,0.296,N,2024-10-21 11:16:00
+375,Robertson-Green,Italian,South Indian,Hyderabad,North,-50.9479035,84.691657,3.33,0.256,N,2024-08-01 02:23:00
+376,Hamilton and Sons,South Indian,Italian,Mumbai,Central,27.8708475,-143.780965,4.09,0.253,1,2023-04-23 05:03:00
+377,Thomas Group,Healthy,Chinese,Pune,South,63.782880,159.449092,3.62,0.219,TRUE,2023-03-31 09:49:00
+378,Dean LLC,Bakery,South Indian,Mumbai,North,-9.8996645,22.322365,3.15,0.155,N,2024-12-24 13:21:00
+379,Armstrong-Mitchell,North Indian,North Indian,Chennai,South,-36.339700,41.180780,4.3,0.275,1,2023-07-14 13:26:00
+380,Smith-Wood,Chinese,South Indian,Delhi,North,27.520941,-50.288488,4.58,0.262,Y,2024-07-30 14:16:00
+381,"Johnson, Lewis and Cunningham",Healthy,Bakery,Hyderabad,Central,69.599383,-43.823278,3.17,0.245,TRUE,2024-04-19 21:28:00
+382,Stephens LLC,Italian,Bakery,Mumbai,West,58.0680695,145.856425,3.3,0.186,N,2023-06-10 15:45:00
+383,Kelly-Carey,Fast Food,Chinese,Hyderabad,East,20.7374455,63.214304,3.08,0.166,N,2024-09-08 07:27:00
+384,Rodriguez-Sanchez,North Indian,North Indian,Mumbai,West,12.357668,-64.403890,3.97,0.157,1,2023-03-03 22:43:00
+385,Phillips PLC,Fast Food,Bakery,Pune,East,63.528180,-124.386429,3.38,0.247,Y,2024-05-02 15:13:00
+386,"Walters, Griffith and Reed",North Indian,Italian,Delhi,North,-0.107959,-156.374474,3.51,0.233,N,2023-11-13 15:47:00
+387,Pittman Ltd,Italian,Bakery,Chennai,North,-67.4054865,-126.512202,3.05,0.183,FALSE,2024-12-29 09:47:00
+388,Newton LLC,Bakery,Italian,Pune,West,3.4550465,-42.691842,3.64,0.193,FALSE,2023-03-08 11:24:00
+389,"Best, Jones and Livingston",North Indian,Italian,Delhi,South,66.7753145,-158.452894,4.35,0.224,Y,2023-11-18 02:19:00
+390,Watson Group,Italian,Italian,Hyderabad,West,80.7212115,-100.840632,3.66,0.251,FALSE,2024-01-03 19:19:00
+391,Fisher and Sons,Italian,North Indian,Delhi,Central,62.7899175,-79.462283,4.64,0.268,FALSE,2024-10-17 07:48:00
+392,Golden-Hayes,South Indian,Fast Food,Chennai,East,-73.808713,-24.649921,3.39,0.261,0,2024-06-12 08:44:00
+393,Carson-Morgan,South Indian,South Indian,Chennai,South,-1.675419,3.783114,,0.164,0,2023-09-29 11:33:00
+394,"Richards, Taylor and Torres",Healthy,Bakery,Delhi,North,65.1116445,99.594401,3.86,0.218,Y,2023-05-14 07:50:00
+395,Gill-Daniels,Chinese,South Indian,Pune,East,-62.6280995,-77.917976,3.71,0.196,1,2023-02-28 06:18:00
+396,Vasquez-Ross,South Indian,Healthy,Hyderabad,East,-45.415066,-61.250422,4.52,0.173,1,2024-08-27 19:05:00
+397,"Bond, Wilson and Oliver",Chinese,Bakery,Mumbai,North,-18.395071,125.038470,3.22,0.197,0,2024-11-18 06:29:00
+398,Davis PLC,North Indian,North Indian,Hyderabad,South,46.279065,47.600950,3.28,0.235,Y,2023-05-17 19:00:00
+399,"Nixon, James and Mccarthy",Bakery,Bakery,Delhi,West,-31.1792805,80.398285,3.05,0.271,TRUE,2023-07-22 20:35:00
+400,Robbins-Pineda,Bakery,Bakery,Bengaluru,South,23.8811645,123.402779,4.66,0.263,0,2024-02-17 15:37:00
+401,West-Singleton,Fast Food,South Indian,Chennai,South,-39.8213675,130.828141,4.12,0.196,N,2024-03-17 13:23:00
+402,"Thornton, Henderson and Wiley",Italian,Bakery,Pune,Central,33.427966,74.537100,4.09,0.252,0,2024-08-01 21:37:00
+403,Carter-Rodgers,Bakery,Bakery,Delhi,South,-73.7931345,-44.785251,3.38,0.286,0,2023-01-17 18:04:00
+404,Stevenson-Dalton,Bakery,Italian,Delhi,North,82.5136515,-124.034945,3.6,0.236,FALSE,2023-07-08 12:52:00
+405,Blackburn-Davis,Healthy,Healthy,Pune,North,66.438424,41.116893,4.02,0.199,0,2023-06-12 16:39:00
+406,Vega-Woodard,Italian,Fast Food,Mumbai,West,2.834539,-173.794201,4.14,0.257,FALSE,2024-04-29 01:52:00
+407,Zimmerman-Roth,Healthy,Bakery,Chennai,North,64.0411075,-37.726531,4.23,0.188,0,2023-09-15 14:41:00
+408,"Alvarez, Nguyen and Rodriguez",Chinese,Fast Food,Pune,East,29.2318785,60.528830,3.72,0.163,1,2023-02-19 12:55:00
+409,Hamilton-Kelly,Italian,Healthy,Hyderabad,West,-57.3186115,55.245509,3.71,0.254,,2024-04-27 21:01:00
+410,"Payne, Nguyen and Williams",North Indian,Healthy,Mumbai,North,49.8859455,73.368866,3.49,0.252,Y,2024-10-27 23:04:00
+411,Jackson Inc,Fast Food,Bakery,Hyderabad,South,-25.004732,-157.837252,3.65,0.213,N,2023-03-30 07:50:00
+412,Herrera-Gonzalez,Fast Food,South Indian,Chennai,North,58.4285155,-8.134435,3.54,0.28,,2024-07-11 08:27:00
+413,"Wu, Lawrence and Green",South Indian,Chinese,Hyderabad,East,85.0788635,-132.776223,3.05,0.213,TRUE,2023-03-11 04:36:00
+414,Brown Group,Italian,Fast Food,Chennai,North,74.7114415,-105.439029,4.5,0.245,N,2024-09-16 18:48:00
+415,Lambert-Fletcher,South Indian,Healthy,Bengaluru,Central,70.1308975,-147.119692,3.16,0.162,0,2023-08-09 03:16:00
+416,Barry-King,Bakery,South Indian,Hyderabad,North,87.5303745,-103.362354,4.38,0.237,1,2024-01-08 05:11:00
+417,Bullock Group,Healthy,Italian,Mumbai,North,57.8139435,-152.006775,3.13,0.252,FALSE,2023-10-26 00:09:00
+418,Ward Group,North Indian,South Indian,Hyderabad,North,-16.248383,27.175249,4.0,0.168,N,2024-09-01 14:33:00
+419,Matthews Inc,Fast Food,Chinese,Pune,West,-32.198340,-173.077920,3.34,0.153,0,2023-09-08 03:20:00
+420,"Nelson, Sharp and Bush",Italian,Fast Food,Chennai,Central,-74.0633935,3.056509,4.39,0.151,Y,2023-01-06 23:33:00
+421,Wallace and Sons,Bakery,North Indian,Bengaluru,East,57.2576995,-12.106725,4.18,0.206,FALSE,2023-12-17 07:15:00
+422,Johnson-Vance,South Indian,Chinese,Mumbai,North,-8.9565405,22.264691,4.69,0.268,,2024-06-06 16:25:00
+423,"Smith, Rice and Romero",Bakery,Italian,Bengaluru,South,7.720102,-2.454196,3.67,0.215,Y,2023-04-29 03:52:00
+424,"Sanchez, Nunez and Marshall",Bakery,Fast Food,Pune,East,5.1993175,31.726767,4.76,0.152,TRUE,2024-05-09 04:48:00
+425,"Sullivan, Adams and Villanueva",Chinese,North Indian,Hyderabad,Central,79.673373,16.626858,4.74,0.243,FALSE,2024-11-03 17:44:00
+426,Newman Inc,South Indian,Chinese,Bengaluru,West,-86.0312575,-177.050585,4.55,0.246,TRUE,2023-07-03 06:59:00
+427,Gonzales-Nicholson,North Indian,Chinese,Mumbai,West,25.841140,22.168087,3.2,0.281,1,2023-08-08 06:04:00
+428,Brown Inc,Bakery,Bakery,Delhi,South,42.9243235,-169.999132,4.26,0.178,0,2024-04-06 13:07:00
+429,"Estrada, Hickman and Beasley",South Indian,North Indian,Mumbai,North,77.144641,-161.993414,3.65,0.167,1,2024-03-23 15:57:00
+430,Bradley-Fernandez,Bakery,South Indian,Hyderabad,North,-7.8461655,170.785627,3.62,0.284,,2024-05-20 23:11:00
+431,Zuniga-Lopez,Italian,Fast Food,Bengaluru,Central,-35.761487,27.459598,3.18,0.167,N,2024-03-19 15:59:00
+432,Fitzgerald-Rogers,North Indian,South Indian,Chennai,South,-77.228892,83.475110,3.97,0.164,,2023-07-13 17:18:00
+433,Ramsey PLC,Italian,South Indian,Pune,Central,0.7326105,66.952387,4.57,0.176,N,2023-02-11 20:59:00
+434,Moore-Knox,Chinese,South Indian,Hyderabad,Central,57.3614815,-156.246021,3.54,0.192,FALSE,2024-11-20 00:24:00
+435,"Hall, Rodriguez and Bryant",Chinese,Healthy,Delhi,Central,28.385575,27.329173,4.43,0.159,,2023-12-17 00:56:00
+436,Walsh and Sons,Chinese,Fast Food,Pune,South,70.483880,34.903480,3.58,0.175,,2023-10-26 14:05:00
+437,Martin-Hanson,Fast Food,Chinese,Pune,East,-82.268442,-100.309300,3.8,0.218,N,2024-05-18 01:41:00
+438,"Mccann, Patel and Lambert",North Indian,Bakery,Chennai,East,-66.835323,-164.091890,3.01,0.209,0,2024-11-06 10:02:00
+439,"Tucker, Wells and Bates",Chinese,Bakery,Bengaluru,Central,-87.905948,-11.439471,3.61,0.163,Y,2023-06-17 15:04:00
+440,Cole-Park,South Indian,Bakery,Mumbai,North,-5.3733205,-39.234195,3.82,0.232,N,2024-08-01 00:52:00
+441,Lopez PLC,South Indian,North Indian,Bengaluru,South,58.025808,-94.186981,4.52,0.166,0,2023-06-11 02:09:00
+442,Reid-Foster,Healthy,Italian,Mumbai,West,1.798213,39.000742,3.46,0.155,0,2024-09-24 20:21:00
+443,"Parker, Howard and Tyler",Italian,Chinese,Bengaluru,Central,-19.7747385,-82.891235,3.65,0.16,1,2024-04-25 21:46:00
+444,"Smith, Zavala and Barrett",Healthy,North Indian,Chennai,Central,10.3220045,-175.214021,4.5,0.219,N,2024-11-15 13:24:00
+445,"Robinson, Bruce and Hernandez",Italian,Fast Food,Delhi,East,57.2500505,164.604719,3.97,0.287,FALSE,2024-07-23 13:50:00
+446,"Stuart, Cannon and Frost",Healthy,Chinese,Mumbai,Central,14.615894,-32.018241,4.14,0.217,FALSE,2024-11-07 20:37:00
+447,Parsons and Sons,North Indian,South Indian,Bengaluru,West,21.7703435,-145.540634,3.55,0.297,TRUE,2024-06-17 04:06:00
+448,Morrow PLC,Healthy,Chinese,Hyderabad,South,-4.132151,137.854887,3.11,0.255,FALSE,2024-05-26 23:43:00
+449,"Cruz, Bowman and Chang",Fast Food,Healthy,Pune,South,1.472217,-70.781675,3.84,0.169,1,2024-08-01 13:37:00
+450,Smith-Contreras,South Indian,Healthy,Chennai,Central,25.7325615,24.840728,3.05,0.217,,2023-11-10 11:18:00
+451,Branch-Weeks,Healthy,Healthy,Bengaluru,Central,69.572811,72.111852,4.68,0.169,N,2023-06-06 22:42:00
+452,Cunningham-Hayes,South Indian,Chinese,Mumbai,East,-33.873507,-177.063807,4.0,0.226,Y,2023-06-16 15:01:00
+453,Myers-Huber,Bakery,South Indian,Pune,Central,-70.6056615,-105.442930,4.18,0.243,0,2023-12-28 21:42:00
+454,Yang-Wilkins,Fast Food,Fast Food,Hyderabad,West,-42.7890795,113.711507,4.16,0.221,Y,2023-08-30 12:18:00
+455,"Willis, Rogers and Jacobson",South Indian,Fast Food,Chennai,West,38.035935,124.462902,3.9,0.281,N,2023-07-14 07:20:00
+456,Dyer PLC,Bakery,North Indian,Chennai,North,-51.046152,-123.180744,4.3,0.255,TRUE,2023-09-19 01:01:00
+457,Schwartz Inc,Italian,South Indian,Hyderabad,West,-3.3718045,163.895464,3.44,0.27,TRUE,2023-11-12 13:06:00
+458,Gray-Hernandez,Italian,South Indian,Delhi,West,-32.1773055,-2.143678,3.96,0.234,TRUE,2023-11-23 13:24:00
+459,"Rodriguez, Campbell and Mejia",North Indian,Fast Food,Chennai,West,65.983539,173.485739,3.62,0.212,,2024-04-09 13:49:00
+460,Miller-Smith,Chinese,Healthy,Mumbai,North,88.893721,-136.372889,4.42,0.275,0,2023-11-16 00:06:00
+461,Sanchez LLC,Italian,Italian,Pune,North,58.0650205,168.413660,4.14,0.187,1,2023-03-02 03:58:00
+462,Garza-Robinson,Italian,Bakery,Delhi,North,-82.8442625,-10.893641,4.24,0.188,Y,2024-12-06 11:43:00
+463,"Hayes, Wheeler and Small",South Indian,Healthy,Mumbai,West,48.6795715,72.419562,4.75,0.233,N,2023-07-06 07:24:00
+464,Sims-Mills,Chinese,Chinese,Mumbai,South,63.1102805,-9.209413,3.66,0.27,Y,2023-05-01 22:16:00
+465,"Johnson, Hamilton and Crawford",North Indian,North Indian,Delhi,Central,-34.229096,15.629960,3.37,0.22,0,2023-09-29 19:39:00
+466,"Smith, Lee and Parker",Bakery,Chinese,Delhi,North,-14.8829805,-179.227164,3.53,0.265,N,2023-03-24 21:33:00
+467,"Smith, Martinez and Carroll",Bakery,Healthy,Hyderabad,South,-9.607007,13.140221,3.96,0.207,FALSE,2024-06-01 03:44:00
+468,Miller PLC,Italian,Chinese,Delhi,East,50.5097075,148.911926,3.13,0.246,1,2023-06-27 08:35:00
+469,"Hardy, Elliott and Rivera",Fast Food,Italian,Chennai,North,42.0238795,-36.288192,3.7,0.188,,2023-07-29 11:01:00
+470,"Williams, Ball and Jordan",Italian,Chinese,Mumbai,West,34.2471075,-144.699094,4.17,0.272,,2024-01-04 08:11:00
+471,"Cantrell, King and Andrews",Chinese,Chinese,Bengaluru,Central,-40.783884,39.486706,3.11,0.27,1,2023-08-14 09:29:00
+472,"King, Church and Barrett",South Indian,North Indian,Pune,South,24.9329595,161.238945,4.59,0.294,TRUE,2024-07-25 05:51:00
+473,Nixon Ltd,North Indian,Bakery,Delhi,West,22.128383,148.569129,3.58,0.164,1,2023-09-15 13:48:00
+474,Cruz-Shaw,Fast Food,Bakery,Delhi,East,9.7243065,-56.652406,4.63,0.291,N,2023-11-12 07:01:00
+475,"Palmer, Fisher and Ingram",Chinese,Bakery,Chennai,East,-41.886111,39.864473,3.09,0.152,1,2024-03-06 20:09:00
+476,Wallace Inc,Healthy,Fast Food,Pune,East,-2.248067,167.967977,,0.186,FALSE,2024-04-01 10:33:00
+477,Barnes-Martinez,Healthy,Healthy,Hyderabad,Central,-82.0331555,-41.556647,3.18,0.228,FALSE,2024-05-17 20:24:00
+478,Craig Inc,Italian,North Indian,Chennai,South,42.113698,119.705479,4.13,0.216,1,2023-12-25 19:50:00
+479,"Norton, Morgan and Cummings",North Indian,South Indian,Bengaluru,North,15.5304495,-56.072940,3.18,0.162,Y,2023-02-15 00:03:00
+480,Mcintosh-Ramirez,South Indian,Fast Food,Delhi,West,28.9763925,167.317115,4.37,0.231,N,2024-06-07 07:44:00
+481,Watson-Miller,Fast Food,Italian,Chennai,Central,-25.554672,-142.083497,3.24,0.19,1,2024-12-19 21:03:00
+482,Hutchinson-Williams,Italian,Fast Food,Hyderabad,East,-65.1930535,-51.699316,3.53,0.264,FALSE,2024-09-24 20:38:00
+483,Lewis-Callahan,South Indian,North Indian,Chennai,Central,-48.6875455,-154.177988,4.35,0.247,Y,2023-10-20 02:53:00
+484,Roth-Perry,North Indian,Bakery,Delhi,East,-66.467375,78.589659,4.51,0.183,N,2024-05-15 05:47:00
+485,Wilson-Dean,North Indian,Bakery,Mumbai,South,17.710652,-136.493976,4.27,0.237,N,2023-06-23 17:42:00
+486,Johnson Inc,Bakery,Healthy,Chennai,West,2.9988525,-147.543681,4.67,0.191,,2023-11-28 22:31:00
+487,Hood Ltd,Italian,Bakery,Pune,West,7.428957,-152.390004,4.26,0.226,FALSE,2024-08-30 07:50:00
+488,Duran and Sons,Italian,Bakery,Bengaluru,West,-19.4923045,-163.988007,3.61,0.246,,2023-08-02 13:18:00
+489,Rivers-Mosley,Bakery,North Indian,Pune,Central,78.2675445,-23.062994,3.78,0.205,TRUE,2023-08-12 20:39:00
+490,Ramirez Inc,North Indian,Healthy,Delhi,South,-0.365679,-96.755114,4.31,0.273,Y,2023-08-24 19:26:00
+491,Henry LLC,Italian,Bakery,Bengaluru,Central,31.550452,-77.215634,4.76,0.281,FALSE,2024-06-27 12:08:00
+492,Cummings PLC,Italian,Bakery,Hyderabad,Central,-5.3718025,30.936941,4.14,0.278,N,2024-03-05 07:13:00
+493,"Dominguez, Gutierrez and Brown",North Indian,Italian,Delhi,South,1.504141,-178.715595,3.55,0.277,N,2023-06-25 02:58:00
+494,"Jacobson, Nichols and Johnson",South Indian,Bakery,Bengaluru,North,-8.5184835,-68.915981,3.16,0.207,N,2024-11-02 09:45:00
+495,Weaver Inc,Healthy,Chinese,Bengaluru,South,50.0958305,69.165320,3.95,0.237,0,2023-03-04 17:07:00
+496,"Jensen, Johnson and Richardson",Chinese,Italian,Delhi,South,45.065077,-124.328569,4.77,0.186,0,2023-06-11 09:26:00
+497,Glass PLC,Bakery,Fast Food,Chennai,South,-2.290149,-91.752833,3.44,0.156,FALSE,2024-04-02 14:14:00
+498,"Smith, Lee and Becker",Italian,South Indian,Chennai,East,13.779441,-106.562888,4.67,0.281,Y,2023-09-16 19:07:00
+499,Schroeder-Rodgers,South Indian,Chinese,Chennai,Central,-71.4030455,161.087701,4.44,0.176,TRUE,2023-12-05 18:48:00
+500,Johnson-Bowman,Bakery,North Indian,Delhi,Central,-16.309047,-11.176341,3.75,0.249,FALSE,2023-11-29 05:47:00
+501,Hutchinson Group,South Indian,Fast Food,Mumbai,South,-7.131756,-174.557522,4.53,0.234,TRUE,2024-03-14 11:11:00
+502,Lawson-Dixon,Chinese,Bakery,Mumbai,West,-31.3588195,-75.636196,3.38,0.293,N,2024-07-31 21:02:00
+503,Huynh and Sons,Fast Food,Chinese,Bengaluru,South,6.066257,-122.743384,3.26,0.156,TRUE,2023-01-01 02:00:00
+504,Schwartz Ltd,Bakery,North Indian,Hyderabad,North,-17.8884855,-162.090554,3.47,0.192,,2024-02-29 19:15:00
+505,Graham and Sons,Healthy,Bakery,Chennai,West,-72.174998,-61.701147,3.58,0.201,0,2024-12-25 06:53:00
+506,"Reynolds, Long and Torres",Bakery,South Indian,Chennai,South,-13.2013225,-149.908122,4.69,0.174,N,2023-10-19 14:14:00
+507,Thompson LLC,South Indian,North Indian,Bengaluru,South,78.4320555,160.397593,3.56,0.159,TRUE,2023-12-29 04:48:00
+508,Morales-Mitchell,Italian,North Indian,Bengaluru,Central,-10.5315925,-100.868072,3.72,0.229,Y,2024-05-25 17:56:00
+509,"Williams, Acosta and Miller",Bakery,Italian,Pune,South,24.348369,70.433119,3.34,0.299,0,2023-07-13 22:29:00
+510,Knight-Wheeler,Bakery,Fast Food,Mumbai,Central,-54.5258595,-28.942291,4.24,0.222,1,2024-01-29 01:38:00
+511,Harvey-Price,Bakery,South Indian,Mumbai,Central,73.0346615,55.026527,3.36,0.226,FALSE,2024-01-18 09:57:00
+512,"Mckay, Smith and Baker",Italian,Bakery,Delhi,East,34.9787345,-148.951082,3.16,0.158,0,2023-07-05 23:06:00
+513,Camacho LLC,South Indian,Italian,Bengaluru,West,39.5632125,125.649522,4.13,0.231,1,2023-06-12 23:21:00
+514,"Taylor, Quinn and Sanders",Italian,Bakery,Bengaluru,East,-54.3594045,-73.024326,3.06,0.225,N,2024-04-13 15:49:00
+515,Mccullough-Banks,Italian,Italian,Pune,South,69.849832,-23.065125,3.43,0.204,FALSE,2023-11-02 11:17:00
+516,Williams and Sons,North Indian,Fast Food,Hyderabad,South,-42.274174,34.312842,4.59,0.271,,2024-12-13 08:32:00
+517,Swanson and Sons,North Indian,North Indian,Mumbai,North,-60.497835,-163.292697,3.64,0.207,1,2023-07-29 19:35:00
+518,"French, Williams and Garcia",Fast Food,Fast Food,Delhi,North,-18.9117275,39.890796,3.67,0.179,1,2023-09-13 06:26:00
+519,Meyer-Herring,Bakery,Bakery,Chennai,Central,-26.1123655,54.179391,4.7,0.197,Y,2024-11-01 17:45:00
+520,Thompson-Mccann,North Indian,South Indian,Delhi,East,-2.995184,-171.445737,3.61,0.188,N,2024-03-18 04:43:00
+521,Sanders-Stewart,North Indian,Chinese,Pune,Central,-31.4788525,-169.838855,3.03,0.262,TRUE,2023-11-01 10:26:00
+522,Green Group,Chinese,Fast Food,Hyderabad,North,-33.5041445,69.393878,3.86,0.26,N,2023-09-19 22:33:00
+523,Adkins-Hernandez,Italian,South Indian,Mumbai,Central,66.5744925,93.541796,3.82,0.176,,2023-10-16 01:49:00
+524,"Castro, Bishop and Wilson",Chinese,South Indian,Pune,Central,-67.033514,-127.780204,4.02,0.174,0,2024-01-05 17:18:00
+525,Little-Curry,South Indian,Chinese,Hyderabad,West,-15.2037615,-0.164360,3.37,0.177,1,2023-09-28 18:06:00
+526,Miller-Morris,Healthy,Bakery,Hyderabad,West,-12.9920395,-19.908692,4.08,0.293,TRUE,2023-11-04 20:35:00
+527,Mckinney and Sons,Chinese,Fast Food,Delhi,West,-82.984532,74.779775,4.71,0.16,TRUE,2024-12-24 23:54:00
+528,May-Curtis,Bakery,Chinese,Hyderabad,South,72.782070,-8.142010,3.5,0.215,N,2023-11-26 04:55:00
+529,Hamilton-Kaiser,North Indian,Chinese,Mumbai,North,-63.882644,-50.883825,,0.195,Y,2023-06-09 17:57:00
+530,"Petty, Williams and Mendez",Italian,North Indian,Pune,Central,85.055002,74.161358,3.89,0.225,Y,2024-04-26 16:39:00
+531,"Wallace, Wright and Marks",Bakery,Chinese,Hyderabad,East,-22.375229,19.111962,4.24,0.218,1,2023-02-14 21:01:00
+532,Thompson Ltd,Healthy,Bakery,Chennai,South,-57.915601,-178.520499,4.36,0.286,0,2023-05-12 17:11:00
+533,"Mcintyre, Pierce and Garrison",Bakery,North Indian,Chennai,East,20.061621,123.458860,3.05,0.223,Y,2024-12-29 01:06:00
+534,Walls and Sons,Italian,North Indian,Chennai,North,-87.1825995,-132.169387,3.89,0.166,FALSE,2023-04-11 07:33:00
+535,Booker Group,Fast Food,South Indian,Chennai,Central,-61.1163815,-122.421348,3.54,0.208,,2023-10-02 11:56:00
+536,Taylor-Webster,Chinese,Bakery,Pune,North,-2.285302,-9.124231,3.58,0.258,Y,2024-12-29 22:45:00
+537,Williams Inc,Italian,Italian,Mumbai,West,-36.0336315,-29.599971,4.56,0.201,FALSE,2023-04-03 12:07:00
+538,Jones and Sons,Fast Food,Fast Food,Chennai,Central,31.8828705,-111.851493,3.09,0.202,N,2024-04-24 03:44:00
+539,Wells-Garner,Italian,North Indian,Chennai,East,-53.142633,79.159528,3.59,0.212,TRUE,2024-08-19 10:17:00
+540,Clarke-Bell,South Indian,Italian,Bengaluru,South,-88.764945,-35.088268,4.02,0.211,TRUE,2023-01-15 11:39:00
+541,"Parker, Ray and Hernandez",Italian,North Indian,Hyderabad,Central,82.511127,149.355242,4.59,0.183,TRUE,2024-08-24 11:24:00
+542,Brown-Rivas,Chinese,North Indian,Pune,West,-7.1717805,-8.081608,4.77,0.172,Y,2024-02-09 20:43:00
+543,Smith-Brown,Bakery,Bakery,Pune,East,75.7629435,141.575581,3.12,0.286,0,2024-04-06 10:38:00
+544,"Potts, Davis and Holmes",Fast Food,Italian,Hyderabad,West,-60.897419,-1.577674,4.51,0.196,N,2024-05-08 19:29:00
+545,"Hunt, Berger and Sweeney",South Indian,North Indian,Hyderabad,West,-42.024339,151.553144,4.13,0.214,TRUE,2023-08-18 01:59:00
+546,"Campbell, Friedman and Knight",Bakery,South Indian,Delhi,East,70.4485585,-8.763333,3.29,0.236,Y,2023-07-07 06:09:00
+547,Mack-Valenzuela,Chinese,South Indian,Delhi,North,55.9340575,44.454080,4.46,0.151,N,2023-05-04 04:34:00
+548,Rogers LLC,Healthy,North Indian,Pune,Central,-63.020594,-173.489121,3.51,0.223,TRUE,2023-07-28 03:41:00
+549,Brown Group,Italian,South Indian,Hyderabad,East,-12.8903805,-19.060834,3.16,0.299,FALSE,2024-10-29 00:34:00
+550,Elliott Group,Italian,North Indian,Hyderabad,East,85.295643,58.514634,3.65,0.268,FALSE,2023-06-27 06:34:00
+551,"Johnson, Burke and Cole",South Indian,Bakery,Bengaluru,South,-50.7864145,71.873775,3.74,0.224,N,2024-01-18 13:21:00
+552,"Lewis, Santana and Smith",Fast Food,Chinese,Hyderabad,Central,-2.6262205,-158.430653,4.32,0.15,,2023-11-02 00:17:00
+553,Spencer and Sons,Italian,South Indian,Chennai,Central,-35.525487,126.206033,3.06,0.183,0,2023-05-11 10:31:00
+554,"Kane, Pitts and Knight",Bakery,Italian,Hyderabad,North,-79.596365,-33.314305,3.31,0.262,FALSE,2023-11-29 04:20:00
+555,Terrell-Kelley,Italian,North Indian,Chennai,Central,35.8918655,-117.961288,4.3,0.234,FALSE,2024-12-08 05:09:00
+556,Cortez Inc,North Indian,Bakery,Bengaluru,East,27.8866245,-165.812630,4.74,0.279,,2024-11-19 19:53:00
+557,Wells-Dyer,Bakery,North Indian,Delhi,West,-27.325047,95.928873,3.91,0.2,0,2024-10-27 22:41:00
+558,Young-Rodriguez,Fast Food,Healthy,Bengaluru,Central,-59.396187,178.670949,4.28,0.22,0,2024-09-09 01:01:00
+559,Hines-Beck,South Indian,Italian,Mumbai,West,-33.9081965,85.102616,4.15,0.196,N,2023-06-29 17:18:00
+560,"Schwartz, Davis and Thompson",Chinese,Fast Food,Bengaluru,West,0.8622085,-103.558482,4.17,0.192,FALSE,2023-01-11 06:34:00
+561,"Mayo, Ross and Garcia",Bakery,South Indian,Mumbai,West,12.4393535,6.659886,4.76,0.192,1,2023-02-01 07:40:00
+562,Obrien-Mosley,South Indian,Bakery,Pune,Central,88.051299,139.658441,3.65,0.249,TRUE,2023-06-09 08:33:00
+563,"Morris, Scott and Johnson",Bakery,Chinese,Chennai,East,-44.8827615,81.432525,3.62,0.218,N,2023-04-11 19:52:00
+564,Evans-Nelson,Healthy,Bakery,Chennai,North,-18.867302,-145.072872,3.62,0.158,FALSE,2024-02-17 17:06:00
+565,Roberts Inc,South Indian,Bakery,Pune,East,15.5288785,102.687302,4.0,0.199,1,2023-10-18 21:15:00
+566,Cooper-French,Chinese,South Indian,Delhi,West,-66.267049,64.865335,4.43,0.293,,2023-09-01 17:19:00
+567,"Brooks, Oconnor and Miller",North Indian,Chinese,Hyderabad,Central,-57.6144545,23.868040,4.62,0.191,TRUE,2024-04-23 15:04:00
+568,Vaughan-Santos,Italian,Bakery,Pune,Central,84.6014585,-171.880368,3.74,0.211,0,2023-12-27 15:02:00
+569,Castillo-Nielsen,South Indian,Bakery,Pune,East,10.4258125,-63.408756,4.51,0.166,0,2024-08-04 22:22:00
+570,Long-Robles,Bakery,Healthy,Delhi,Central,6.227785,-164.478776,4.18,0.283,,2023-05-15 19:12:00
+571,Johnson-Adams,Chinese,South Indian,Delhi,South,73.958255,-98.482220,4.01,0.261,FALSE,2023-11-24 15:38:00
+572,Estrada PLC,Italian,North Indian,Pune,North,-17.627815,18.419794,4.5,0.288,FALSE,2024-07-02 14:54:00
+573,"Franklin, Watson and Murphy",North Indian,Bakery,Delhi,West,26.4043715,1.448766,,0.278,TRUE,2024-12-15 12:32:00
+574,Williams Ltd,Fast Food,South Indian,Hyderabad,North,9.8152495,102.206652,3.62,0.292,N,2024-07-31 23:47:00
+575,Wells-Decker,Healthy,Fast Food,Chennai,North,-29.783383,116.778431,4.75,0.208,Y,2023-01-16 03:59:00
+576,Dodson-Gomez,Italian,North Indian,Hyderabad,East,-27.5136105,-25.829326,4.4,0.207,TRUE,2024-07-29 11:10:00
+577,Graham PLC,Italian,Fast Food,Chennai,Central,29.7416545,-106.372661,3.41,0.299,,2024-03-24 04:38:00
+578,Roman Ltd,South Indian,Bakery,Bengaluru,North,-40.0014295,-28.427048,,0.233,FALSE,2024-07-16 03:25:00
+579,Perry-Smith,Fast Food,Italian,Bengaluru,East,-51.7195585,-97.983634,3.28,0.278,,2024-03-14 07:30:00
+580,Brock LLC,Italian,South Indian,Pune,South,86.2604275,-2.043328,,0.266,TRUE,2024-05-30 07:38:00
+581,Novak-Graves,Bakery,North Indian,Pune,West,-89.582448,174.904147,3.65,0.244,N,2023-01-03 11:51:00
+582,Bowman LLC,Chinese,Healthy,Pune,North,-84.354430,-73.326432,4.19,0.238,FALSE,2024-05-15 16:19:00
+583,"Franklin, Lopez and Houston",South Indian,Fast Food,Bengaluru,North,42.854577,-112.316767,3.57,0.161,N,2023-09-15 20:22:00
+584,"Evans, Harris and Vang",Chinese,Italian,Bengaluru,West,-47.6002835,-45.402414,4.06,0.248,Y,2024-05-22 08:13:00
+585,Elliott-Scott,Fast Food,Italian,Chennai,West,71.7595205,163.881985,4.19,0.169,,2023-06-14 11:16:00
+586,"Morgan, Snyder and Wong",Healthy,South Indian,Mumbai,East,-74.4139275,115.010543,4.77,0.276,,2024-03-05 04:21:00
+587,Torres-Morrison,North Indian,Bakery,Delhi,Central,25.6814295,50.729721,3.49,0.235,,2024-06-12 01:45:00
+588,Simmons-Good,Italian,North Indian,Delhi,South,-10.570755,-14.569056,3.03,0.241,Y,2024-04-23 00:26:00
+589,"Powell, Wang and Green",North Indian,North Indian,Bengaluru,East,68.229589,90.766837,3.05,0.181,TRUE,2024-06-02 10:55:00
+590,"Fleming, Bell and Vaughn",South Indian,Bakery,Delhi,South,-3.792766,-134.529355,3.71,0.259,TRUE,2023-10-17 08:19:00
+591,Murillo Ltd,Bakery,North Indian,Pune,West,-25.2468615,134.687295,4.36,0.241,,2023-04-18 07:11:00
+592,"Rojas, Henry and Sanchez",Italian,Italian,Bengaluru,Central,51.3437865,7.070318,4.03,0.229,,2023-05-27 03:43:00
+593,Williams-Nunez,Bakery,Fast Food,Mumbai,South,-15.563802,124.834119,4.73,0.248,0,2024-12-27 05:58:00
+594,Brown-Lewis,Bakery,North Indian,Delhi,North,-11.016240,-169.288361,4.13,0.263,,2024-09-07 10:14:00
+595,"Garcia, Scott and Cisneros",Fast Food,Chinese,Chennai,Central,-63.210442,166.213639,3.03,0.274,TRUE,2023-11-18 19:16:00
+596,Collins-Wilson,North Indian,Bakery,Pune,North,1.228619,42.379550,4.12,0.264,,2023-05-23 08:25:00
+597,"Swanson, Mills and Johnson",Italian,Italian,Hyderabad,East,88.787921,-70.310700,3.98,0.155,N,2024-10-09 13:13:00
+598,"Lee, French and Farmer",Healthy,North Indian,Mumbai,North,29.442824,-120.853017,4.51,0.267,Y,2023-11-14 00:34:00
+599,Martinez-Lopez,Fast Food,South Indian,Chennai,West,57.3561545,178.736808,3.38,0.219,N,2023-10-25 22:50:00
+600,"Woods, Austin and Velez",Fast Food,South Indian,Chennai,East,-74.8404865,146.695853,,0.186,1,2024-12-08 19:24:00
+601,Fitzgerald Inc,Healthy,Italian,Chennai,Central,49.818056,-149.304772,3.37,0.177,TRUE,2024-01-27 08:16:00
+602,"Bautista, Hall and Reese",Chinese,Chinese,Hyderabad,West,63.9438295,59.916089,,0.162,1,2023-11-30 04:00:00
+603,Lee PLC,Healthy,Italian,Mumbai,West,-73.4459935,-22.184905,3.4,0.212,1,2023-12-16 14:56:00
+604,Sexton-Jacobs,Fast Food,South Indian,Pune,West,25.9025785,141.031000,3.73,0.233,1,2023-05-19 01:08:00
+605,Allen Inc,Chinese,Healthy,Mumbai,East,13.231580,-134.272543,3.11,0.19,N,2024-01-02 17:11:00
+606,"Edwards, Mckinney and Christian",Healthy,North Indian,Hyderabad,North,-49.680002,174.148553,4.35,0.213,TRUE,2024-01-23 14:56:00
+607,Rodriguez-Hamilton,Bakery,South Indian,Pune,South,64.1888255,137.171983,3.95,0.264,FALSE,2024-04-28 22:36:00
+608,Collins-Rowe,North Indian,South Indian,Mumbai,East,46.3455565,-174.359845,3.68,0.192,N,2024-02-29 16:16:00
+609,"Bishop, Shaffer and Cooper",Chinese,Chinese,Delhi,North,-52.5128405,-58.247961,4.26,0.218,TRUE,2023-07-01 12:07:00
+610,Spears-Diaz,Bakery,Healthy,Pune,West,27.1315805,161.695899,4.29,0.23,Y,2023-11-27 04:45:00
+611,"Burns, Ibarra and Armstrong",Fast Food,North Indian,Chennai,Central,-74.6980195,-126.148890,3.75,0.272,,2024-01-10 03:33:00
+612,"Robertson, Castillo and Daugherty",Italian,South Indian,Bengaluru,North,51.7688335,171.135214,4.47,0.232,N,2023-12-19 02:32:00
+613,"Jones, Davis and Wells",Italian,North Indian,Delhi,South,-32.8147555,17.179739,3.83,0.159,N,2024-02-28 18:09:00
+614,Nelson Inc,Bakery,South Indian,Bengaluru,Central,16.907485,55.540244,4.75,0.279,,2023-08-17 08:50:00
+615,Dorsey-Dixon,Italian,Chinese,Pune,West,-27.049733,-96.065267,3.58,0.293,FALSE,2023-02-22 08:29:00
+616,Vazquez and Sons,Italian,South Indian,Chennai,North,-86.5334335,33.595212,3.54,0.278,Y,2024-07-07 19:43:00
+617,Santiago-Myers,South Indian,Chinese,Mumbai,South,-38.7696905,161.363819,3.44,0.218,Y,2023-12-14 02:37:00
+618,Parker PLC,Italian,Healthy,Delhi,West,10.272749,38.752523,4.55,0.291,TRUE,2024-10-15 04:33:00
+619,"Torres, Brock and Marsh",Bakery,South Indian,Pune,North,-76.8851695,91.079347,3.35,0.294,FALSE,2024-11-24 04:57:00
+620,Miller and Sons,Bakery,Bakery,Pune,East,-66.0270965,40.371019,3.16,0.266,,2024-12-05 17:27:00
+621,Mayo Group,Chinese,Italian,Chennai,East,67.5239545,-5.045177,3.68,0.259,TRUE,2023-07-04 07:21:00
+622,Johnson and Sons,Chinese,Bakery,Chennai,South,-24.7354295,102.134911,3.84,0.22,,2024-03-30 23:43:00
+623,"Anderson, King and Ray",South Indian,North Indian,Mumbai,West,-11.4055445,-179.963732,3.74,0.173,FALSE,2024-08-08 09:34:00
+624,Tucker Group,Bakery,South Indian,Bengaluru,North,-39.373162,52.525766,4.39,0.227,0,2024-12-14 00:01:00
+625,Wallace-Oconnor,Chinese,Healthy,Pune,Central,77.897014,-78.689001,3.33,0.287,,2024-01-05 09:22:00
+626,"Owens, Miller and Stanley",Fast Food,South Indian,Delhi,South,-21.887351,-9.141781,3.66,0.231,,2024-06-26 08:09:00
+627,Peterson PLC,Chinese,Italian,Bengaluru,North,-0.4168835,-130.735468,,0.154,0,2023-06-12 17:14:00
+628,"Murray, Rivas and Fields",Chinese,Healthy,Mumbai,West,80.006896,-74.646571,3.78,0.151,TRUE,2024-04-02 19:46:00
+629,Allen-Morris,Italian,Healthy,Hyderabad,West,25.1027455,-176.110625,4.71,0.238,1,2024-03-23 22:19:00
+630,Gonzalez and Sons,Healthy,Chinese,Mumbai,Central,-31.0771945,126.860847,3.17,0.229,TRUE,2023-06-26 18:25:00
+631,Bell-Huffman,Bakery,South Indian,Pune,South,-37.9621595,154.226840,4.63,0.216,Y,2023-02-21 23:23:00
+632,Williams-Scott,South Indian,South Indian,Chennai,Central,-37.055327,68.551565,3.94,0.236,,2024-01-06 18:34:00
+633,Quinn Inc,Bakery,Chinese,Pune,East,8.3344675,-137.347466,3.32,0.22,TRUE,2024-11-11 07:17:00
+634,Solis-Nielsen,North Indian,Healthy,Pune,West,-10.218358,-116.530992,3.38,0.194,0,2023-02-12 03:31:00
+635,Padilla-Jackson,Fast Food,Healthy,Pune,Central,-67.402221,46.829825,3.28,0.185,0,2023-08-01 23:55:00
+636,Grant PLC,Healthy,Chinese,Pune,East,9.258941,-170.257506,3.56,0.192,FALSE,2023-03-24 21:33:00
+637,Hicks-Harmon,Healthy,Bakery,Bengaluru,North,15.761469,-164.980455,3.78,0.279,Y,2024-11-27 01:10:00
+638,Mueller-Carr,North Indian,Italian,Mumbai,East,4.992058,136.533773,4.7,0.185,TRUE,2024-01-20 14:43:00
+639,Wagner Group,Chinese,Chinese,Mumbai,South,-33.8453785,-94.552677,4.77,0.196,,2023-10-25 00:05:00
+640,Craig PLC,Italian,South Indian,Hyderabad,North,61.5091855,81.682825,4.14,0.284,FALSE,2023-12-27 02:35:00
+641,Mendoza-Wood,Italian,North Indian,Bengaluru,Central,13.044185,19.603257,4.14,0.207,,2024-02-29 01:29:00
+642,"White, Weaver and Nguyen",Italian,North Indian,Chennai,South,87.447774,92.021034,4.19,0.213,FALSE,2023-01-19 21:44:00
+643,Munoz-Hernandez,South Indian,Fast Food,Bengaluru,West,50.322706,-134.583329,3.8,0.166,Y,2024-01-24 04:34:00
+644,Mcmillan PLC,Italian,Bakery,Delhi,East,55.051533,-105.320549,3.5,0.232,N,2023-10-22 10:54:00
+645,"West, Blankenship and Butler",South Indian,North Indian,Pune,East,19.0627185,5.945833,4.57,0.202,FALSE,2023-07-01 23:19:00
+646,Collier-Robinson,Fast Food,South Indian,Delhi,South,42.4068415,-179.270512,3.28,0.19,,2023-09-18 00:28:00
+647,Frey Inc,Bakery,Italian,Pune,North,-11.5875345,155.736446,3.14,0.242,1,2024-01-19 00:49:00
+648,"Burke, Rowe and Patterson",Bakery,Bakery,Mumbai,Central,65.8604365,4.214925,3.44,0.276,Y,2024-03-20 15:10:00
+649,Callahan Inc,Bakery,South Indian,Bengaluru,Central,-42.1491265,-94.977005,3.45,0.225,0,2023-03-24 08:41:00
+650,Gonzalez-Black,Bakery,Healthy,Pune,Central,55.3046845,-17.706258,4.03,0.176,Y,2024-07-19 23:43:00
+651,Hall Ltd,South Indian,North Indian,Mumbai,North,15.779652,126.468404,3.53,0.226,0,2024-11-18 18:44:00
+652,"Alvarado, Sawyer and Moreno",Fast Food,Fast Food,Bengaluru,South,-50.642520,38.021946,3.64,0.171,1,2024-03-27 13:23:00
+653,"Buchanan, Johnson and Green",Italian,Fast Food,Hyderabad,East,83.477444,-111.375282,3.01,0.175,0,2023-02-16 11:10:00
+654,Burns PLC,South Indian,Chinese,Bengaluru,West,50.534145,100.593770,3.86,0.16,TRUE,2024-09-07 10:04:00
+655,Rodriguez-Murphy,Healthy,South Indian,Mumbai,South,18.7368655,-10.368624,3.1,0.157,TRUE,2023-06-22 16:36:00
+656,Miller Inc,South Indian,Fast Food,Delhi,North,62.148887,-155.054302,4.08,0.226,FALSE,2023-10-16 10:05:00
+657,"Brady, Coleman and Vasquez",Healthy,South Indian,Bengaluru,East,72.965952,27.653298,4.37,0.246,TRUE,2023-12-30 08:46:00
+658,Thomas and Sons,Healthy,Bakery,Mumbai,West,-64.838164,92.462773,4.07,0.264,0,2024-06-21 00:39:00
+659,Fisher-Gibson,Bakery,Chinese,Mumbai,Central,-42.051923,-133.176331,,0.193,N,2024-02-26 22:22:00
+660,Hunt-Gonzalez,Fast Food,Chinese,Mumbai,Central,41.4001895,61.465152,4.49,0.2,1,2023-02-28 09:17:00
+661,Campbell-Summers,Chinese,Fast Food,Chennai,Central,-52.185348,-57.373981,3.92,0.275,1,2023-05-01 19:00:00
+662,Martin-Miller,North Indian,North Indian,Mumbai,West,-6.5332805,43.679369,4.64,0.158,0,2023-09-17 09:51:00
+663,Johnson-Bailey,North Indian,Bakery,Delhi,Central,-15.6004215,159.830068,3.85,0.221,,2024-05-11 08:34:00
+664,"Meyer, Perez and Pearson",Chinese,Italian,Chennai,West,-15.630880,142.499523,3.02,0.252,Y,2024-05-31 23:28:00
+665,Salazar-Hamilton,Bakery,Italian,Delhi,North,-2.078256,-29.935936,4.65,0.222,Y,2023-10-12 20:26:00
+666,"Mcconnell, Cook and Wells",South Indian,South Indian,Pune,East,-87.3812845,98.530105,3.73,0.207,N,2023-03-01 09:58:00
+667,"Jimenez, Walker and Diaz",North Indian,Fast Food,Pune,Central,-4.675566,-70.584085,3.47,0.179,,2024-06-13 20:16:00
+668,"Clay, Sharp and Hawkins",Healthy,South Indian,Mumbai,West,-34.166589,79.968277,3.9,0.252,FALSE,2024-08-22 21:20:00
+669,Bush-Barker,Healthy,Chinese,Delhi,Central,71.078191,136.328958,3.01,0.21,0,2023-05-21 13:30:00
+670,Jordan-Miller,Chinese,South Indian,Hyderabad,East,26.125293,40.028917,4.39,0.213,N,2023-10-24 19:04:00
+671,"Swanson, Boyd and Stewart",South Indian,Italian,Bengaluru,East,-69.6035085,4.910532,3.39,0.228,N,2024-04-15 10:45:00
+672,Reeves-Harris,South Indian,Chinese,Mumbai,North,6.075096,-47.546064,3.47,0.223,1,2023-10-02 05:20:00
+673,"Koch, Black and Foster",Healthy,Fast Food,Hyderabad,North,-75.438005,155.818473,4.49,0.152,0,2024-10-01 12:12:00
+674,Gutierrez Ltd,Healthy,Italian,Mumbai,Central,86.9834365,-95.247473,4.08,0.228,TRUE,2024-07-04 11:48:00
+675,Boyd-Davis,Italian,South Indian,Mumbai,South,-50.736066,-32.196512,3.33,0.256,FALSE,2023-01-31 03:10:00
+676,Romero and Sons,Healthy,Bakery,Bengaluru,South,-7.995819,-179.759393,3.46,0.218,N,2023-12-03 09:17:00
+677,"Miller, Vazquez and Hart",Italian,Healthy,Chennai,East,6.1338945,47.942695,3.88,0.156,TRUE,2024-08-25 21:01:00
+678,Cruz-Sanford,North Indian,Fast Food,Bengaluru,South,43.144040,52.973388,4.04,0.205,,2024-02-03 11:28:00
+679,"Turner, Duke and Baker",Italian,North Indian,Hyderabad,Central,54.2414465,-170.435563,3.86,0.249,,2024-12-04 08:33:00
+680,Williamson-Whitehead,Fast Food,Healthy,Bengaluru,West,-34.583101,29.512851,3.62,0.164,N,2023-02-22 17:42:00
+681,Rodriguez-Williams,Bakery,Italian,Chennai,South,-23.924945,-4.943466,3.04,0.214,TRUE,2024-10-16 09:29:00
+682,Moore-Lopez,Healthy,North Indian,Mumbai,West,65.0768555,-56.626336,3.06,0.249,0,2024-06-02 15:34:00
+683,Green-Collins,Italian,Fast Food,Chennai,West,-36.888766,152.501339,3.82,0.165,TRUE,2023-11-24 17:16:00
+684,Thomas-Wright,Healthy,North Indian,Pune,Central,-44.3327075,147.034678,3.33,0.155,Y,2024-07-04 11:19:00
+685,Krause Ltd,Italian,North Indian,Pune,North,11.601906,8.154635,4.79,0.208,N,2024-05-03 23:41:00
+686,Martin and Sons,Healthy,Healthy,Mumbai,West,-80.3028435,-50.390710,3.99,0.276,0,2023-06-20 16:44:00
+687,"Randall, Soto and Carrillo",Chinese,Bakery,Hyderabad,North,81.305428,77.219313,4.12,0.189,,2024-11-20 19:52:00
+688,Gomez-Esparza,Fast Food,Chinese,Bengaluru,Central,76.176561,-86.949764,4.12,0.258,TRUE,2023-12-23 23:07:00
+689,Green-Peterson,Italian,Bakery,Hyderabad,North,83.335942,102.439384,4.4,0.159,0,2023-10-12 07:19:00
+690,"Cain, Phelps and Cross",Chinese,Chinese,Pune,West,-11.0503435,95.166018,4.62,0.211,,2024-05-20 00:44:00
+691,Conley-Schultz,Healthy,Chinese,Pune,South,21.012374,-51.934292,4.48,0.232,,2023-04-08 09:14:00
+692,"Johnson, Carr and Wolfe",Bakery,Chinese,Chennai,Central,64.6663915,-168.711993,,0.268,TRUE,2024-01-14 14:00:00
+693,Gray and Sons,North Indian,Bakery,Bengaluru,East,-11.572224,-170.454420,3.27,0.197,1,2023-02-11 15:10:00
+694,Allen Ltd,Bakery,South Indian,Hyderabad,North,86.7434445,-161.489487,3.88,0.26,,2024-05-30 22:35:00
+695,"Simon, Mason and Sellers",South Indian,Bakery,Delhi,South,-41.1710905,-125.886174,4.35,0.189,N,2024-08-25 16:34:00
+696,Arellano-Pennington,Chinese,North Indian,Hyderabad,West,-88.1991475,-40.929433,4.48,0.222,FALSE,2023-07-19 14:01:00
+697,Hughes Ltd,Italian,Bakery,Pune,South,-15.5613825,-88.490512,4.14,0.226,Y,2024-04-17 19:07:00
+698,"Lamb, Dickerson and Green",South Indian,Bakery,Chennai,East,77.7460415,-52.837143,4.76,0.286,TRUE,2023-03-03 23:55:00
+699,Fitzpatrick LLC,South Indian,Chinese,Delhi,West,34.032090,149.049836,3.34,0.158,TRUE,2024-03-16 23:39:00
+700,Martin-Henderson,Bakery,Italian,Pune,Central,-24.9552875,97.436348,3.83,0.265,0,2023-04-20 16:13:00
+701,Grant and Sons,North Indian,South Indian,Delhi,South,71.772638,-170.633639,4.67,0.207,Y,2023-03-02 01:35:00
+702,Johnson-Miranda,Bakery,Italian,Delhi,East,36.803409,-171.695233,3.22,0.22,N,2023-06-01 16:23:00
+703,Newman-Lindsey,Fast Food,Bakery,Bengaluru,East,42.340380,-28.641326,3.79,0.165,N,2024-03-16 07:16:00
+704,Floyd Ltd,Healthy,Healthy,Chennai,South,51.134478,152.240384,,0.177,FALSE,2024-12-14 15:39:00
+705,"Barton, Dean and Ortiz",Bakery,Chinese,Mumbai,North,-42.284563,10.533360,4.03,0.227,1,2024-10-06 03:26:00
+706,"Shah, Horn and Hall",South Indian,Healthy,Pune,North,-45.0560755,98.213816,4.64,0.277,N,2024-03-24 01:10:00
+707,Underwood-Meyers,Italian,Bakery,Mumbai,North,70.772670,-25.158188,4.33,0.236,1,2023-11-23 17:25:00
+708,"Ross, Hobbs and Massey",South Indian,Chinese,Delhi,East,-13.428962,104.254621,4.79,0.158,N,2023-10-17 13:06:00
+709,Brooks Group,North Indian,Bakery,Pune,North,80.252318,4.635801,4.78,0.215,TRUE,2023-01-22 13:20:00
+710,Perez PLC,Bakery,Chinese,Chennai,Central,70.1834265,-92.883483,4.63,0.249,FALSE,2023-07-09 13:24:00
+711,"Prince, Herman and Smith",Healthy,Italian,Bengaluru,North,36.6543715,-149.339661,,0.164,,2023-05-19 05:16:00
+712,Sanchez-Downs,Italian,Italian,Chennai,East,32.426333,-151.510956,3.1,0.211,N,2023-11-27 09:46:00
+713,Reed LLC,South Indian,Chinese,Chennai,North,-88.792659,15.781486,3.01,0.244,TRUE,2024-10-29 03:53:00
+714,"Campbell, Ayers and Tran",South Indian,Chinese,Chennai,North,-24.801246,-178.029945,4.55,0.255,Y,2024-05-27 14:49:00
+715,Macdonald Group,Fast Food,North Indian,Bengaluru,North,36.3723085,-155.318154,3.84,0.296,Y,2024-06-15 01:05:00
+716,Blanchard-Davis,Italian,Healthy,Delhi,East,-0.595314,75.627421,3.82,0.279,0,2024-10-31 19:07:00
+717,"Lee, Rangel and Martin",South Indian,Italian,Pune,Central,66.4969985,-176.344194,3.53,0.197,Y,2023-01-31 15:02:00
+718,Mcdaniel Inc,Italian,North Indian,Bengaluru,South,-46.4222075,133.615446,4.79,0.295,Y,2023-06-10 21:15:00
+719,Mercer-Baker,Healthy,Chinese,Delhi,South,69.895424,124.482493,3.07,0.164,N,2023-07-15 11:43:00
+720,Richard LLC,Fast Food,Fast Food,Chennai,East,-2.341961,43.151335,4.06,0.248,TRUE,2023-11-22 19:09:00
+721,Rodriguez-Williams,Chinese,Italian,Pune,Central,-65.537473,137.288360,4.07,0.155,0,2024-10-25 06:23:00
+722,Perkins-Zuniga,Italian,Healthy,Delhi,West,-77.4560505,-155.155276,4.2,0.281,1,2024-04-02 23:42:00
+723,Beard LLC,Fast Food,Chinese,Delhi,West,37.441418,-96.420183,3.14,0.2,N,2023-03-10 05:53:00
+724,Larson Ltd,Chinese,Healthy,Pune,South,-22.7591435,129.283261,4.44,0.229,FALSE,2023-01-21 22:50:00
+725,"Mercer, Jimenez and Chambers",South Indian,North Indian,Bengaluru,North,26.479717,98.949775,4.12,0.291,TRUE,2024-03-02 03:02:00
+726,Dixon Ltd,South Indian,Bakery,Pune,East,19.9991145,88.704496,3.5,0.266,Y,2023-09-12 05:09:00
+727,"Morales, Pitts and Forbes",Healthy,Italian,Mumbai,Central,0.3992325,93.217714,3.23,0.261,Y,2024-06-06 03:14:00
+728,Carpenter and Sons,South Indian,Fast Food,Bengaluru,East,-23.230676,111.978554,3.19,0.161,1,2024-07-25 18:16:00
+729,Vazquez-Sanders,Bakery,Chinese,Delhi,North,-6.6744845,-144.709830,3.08,0.217,,2023-11-06 18:54:00
+730,Klein-Gonzalez,Healthy,Bakery,Chennai,Central,50.2231795,113.558608,4.38,0.271,TRUE,2024-02-16 17:35:00
+731,Bennett Group,North Indian,Bakery,Bengaluru,Central,85.1738445,154.333013,3.88,0.228,0,2023-01-19 11:02:00
+732,Lang Ltd,North Indian,Chinese,Hyderabad,West,48.9245905,29.686714,3.98,0.156,FALSE,2023-05-04 09:08:00
+733,"Jones, Knight and Clark",North Indian,Chinese,Bengaluru,Central,78.6245635,43.754218,3.35,0.233,FALSE,2023-04-26 23:43:00
+734,Castillo-Cole,South Indian,Chinese,Chennai,West,-39.6911185,153.332405,4.61,0.258,TRUE,2024-11-04 14:44:00
+735,Hanna Ltd,Healthy,South Indian,Hyderabad,Central,-57.722236,79.850091,4.06,0.165,1,2024-12-19 14:09:00
+736,"Fuller, Cline and Schmidt",Bakery,North Indian,Hyderabad,North,39.380121,-167.571277,,0.287,0,2023-10-25 14:40:00
+737,"Suarez, Barr and Reynolds",Fast Food,North Indian,Pune,North,-58.415548,-158.406535,4.49,0.256,0,2023-12-22 19:19:00
+738,"Allen, Moreno and Reed",North Indian,Italian,Hyderabad,South,0.3641875,-82.475730,4.56,0.243,0,2024-07-27 08:59:00
+739,White Inc,North Indian,Healthy,Hyderabad,North,84.823246,173.978911,4.62,0.208,,2024-08-15 05:04:00
+740,Rose-White,Chinese,Bakery,Bengaluru,East,-26.9006675,115.772516,3.44,0.205,FALSE,2024-12-04 12:04:00
+741,Burns-Cain,Italian,Italian,Pune,South,9.410708,77.621390,4.29,0.224,FALSE,2024-06-08 21:33:00
+742,Anderson PLC,Fast Food,Chinese,Bengaluru,Central,-34.114028,-16.746109,3.38,0.195,,2024-05-28 19:26:00
+743,"Collins, Baker and Watson",Italian,Chinese,Chennai,South,-51.7776285,116.038776,4.36,0.156,1,2024-01-30 04:55:00
+744,"Brown, Burgess and Ali",South Indian,Healthy,Chennai,North,78.7078675,132.519000,4.27,0.265,Y,2023-08-20 00:47:00
+745,Beck Inc,Fast Food,Italian,Pune,East,80.5560035,24.541692,4.79,0.188,TRUE,2023-07-10 14:06:00
+746,"Fisher, Morton and Wood",Chinese,Healthy,Bengaluru,South,65.3896255,-178.205629,4.61,0.224,,2023-11-25 18:34:00
+747,"Roberts, Benson and Parker",Chinese,Healthy,Pune,West,-79.8173525,0.532298,3.21,0.18,TRUE,2023-09-09 10:39:00
+748,"Martin, Parrish and Buckley",Healthy,Chinese,Bengaluru,North,-61.2661225,36.164998,3.93,0.251,TRUE,2024-04-30 17:34:00
+749,Miller Ltd,North Indian,Fast Food,Hyderabad,North,71.800022,-98.972701,3.64,0.152,,2024-09-18 13:04:00
+750,Hill PLC,Bakery,Fast Food,Delhi,East,57.8109335,55.238843,3.69,0.272,Y,2024-04-14 14:52:00
+751,"Green, Lee and Santiago",South Indian,North Indian,Chennai,North,-2.8049055,64.907942,3.29,0.221,,2023-08-25 08:40:00
+752,Johnson LLC,Bakery,Healthy,Bengaluru,South,55.7243475,-65.626486,3.96,0.295,,2024-10-12 16:03:00
+753,Archer and Sons,South Indian,Healthy,Hyderabad,North,-69.756548,106.075758,4.48,0.284,1,2023-01-19 03:00:00
+754,Burton-Duarte,Italian,South Indian,Pune,West,43.1281555,-94.764233,3.89,0.194,1,2023-01-19 04:33:00
+755,"Graves, Rivera and Holland",Chinese,Italian,Chennai,North,-28.483322,21.781643,3.7,0.267,Y,2024-11-13 07:17:00
+756,Gutierrez and Sons,Chinese,Bakery,Delhi,North,33.138054,-125.221836,3.17,0.243,TRUE,2023-02-01 07:24:00
+757,Dorsey Ltd,Healthy,Fast Food,Mumbai,East,-31.879504,-175.412619,4.71,0.276,1,2024-03-13 15:59:00
+758,Moore and Sons,Bakery,Italian,Hyderabad,South,25.745000,-126.605864,4.15,0.221,N,2024-10-23 21:39:00
+759,"Wilson, Sullivan and Weiss",North Indian,Bakery,Mumbai,Central,-7.1174015,64.595986,4.35,0.194,1,2024-07-18 07:51:00
+760,"Crane, Miller and Thompson",Fast Food,South Indian,Hyderabad,East,-55.4501285,144.448872,3.45,0.153,FALSE,2023-03-28 21:55:00
+761,"Bullock, Hernandez and Jimenez",Fast Food,Healthy,Hyderabad,South,76.3901035,37.604958,3.8,0.247,FALSE,2023-07-12 09:38:00
+762,Underwood-Rose,Fast Food,South Indian,Mumbai,North,-86.6863155,69.698219,3.24,0.19,0,2024-01-04 16:48:00
+763,Jones-Young,Chinese,Chinese,Pune,East,43.293384,161.348195,3.81,0.251,N,2023-02-19 05:37:00
+764,"Benson, Ortiz and Perez",South Indian,North Indian,Bengaluru,Central,61.7173285,-143.420259,4.19,0.29,Y,2023-10-16 17:57:00
+765,Ramirez PLC,Italian,South Indian,Delhi,West,39.816101,-92.178077,3.78,0.185,TRUE,2024-02-10 18:14:00
+766,Sweeney PLC,South Indian,Healthy,Pune,Central,38.957539,68.260582,3.98,0.264,Y,2024-11-14 09:44:00
+767,Whitney PLC,Fast Food,Healthy,Pune,West,10.690147,179.043682,3.6,0.187,TRUE,2024-11-10 17:10:00
+768,"Diaz, Lee and Conley",Italian,Fast Food,Hyderabad,North,-81.9307125,14.406415,3.56,0.252,1,2023-07-01 17:57:00
+769,Rush-Richardson,South Indian,Chinese,Delhi,South,45.077496,-26.646285,3.43,0.211,1,2024-03-05 22:42:00
+770,Nelson-Roth,Italian,Bakery,Chennai,East,14.8253195,-163.913991,4.16,0.247,Y,2024-06-21 22:40:00
+771,"Conrad, Ray and Brewer",Healthy,Italian,Bengaluru,North,-70.5785615,-59.136772,3.94,0.258,,2023-03-22 07:40:00
+772,Allen-Burgess,Bakery,Chinese,Hyderabad,West,89.1116195,-35.563447,3.59,0.17,FALSE,2023-03-08 03:55:00
+773,Arroyo LLC,South Indian,Bakery,Chennai,South,21.0059565,18.056061,4.01,0.294,0,2023-02-22 02:58:00
+774,Perry PLC,Fast Food,Italian,Hyderabad,North,-85.082916,156.709200,3.51,0.21,N,2023-07-21 17:14:00
+775,"Smith, Howard and Hawkins",Healthy,Fast Food,Hyderabad,West,75.8295315,-154.115123,3.68,0.282,Y,2024-11-26 15:51:00
+776,Sexton-Grimes,Bakery,South Indian,Hyderabad,North,-46.079229,96.562078,3.15,0.153,TRUE,2024-07-17 22:00:00
+777,Wise and Sons,Chinese,South Indian,Bengaluru,West,84.232760,62.285376,3.04,0.273,TRUE,2024-11-14 14:12:00
+778,Castaneda-Jones,Chinese,Italian,Hyderabad,South,4.238674,-78.856002,3.1,0.238,1,2023-04-21 08:38:00
+779,Hayes LLC,Bakery,Italian,Hyderabad,East,-14.703768,77.497646,4.38,0.165,,2024-12-15 22:53:00
+780,Ross-Mitchell,Chinese,Bakery,Bengaluru,South,19.241868,174.714091,,0.227,TRUE,2024-05-10 06:15:00
+781,Johnson-Sherman,Bakery,Bakery,Delhi,South,-4.490250,141.489636,3.28,0.281,FALSE,2024-12-09 20:06:00
+782,"Paul, Rodriguez and Hampton",Fast Food,Chinese,Pune,West,-62.141236,48.080695,3.76,0.18,0,2023-02-15 11:47:00
+783,Roberts-Waters,Bakery,Chinese,Bengaluru,Central,74.7318385,-95.148451,3.82,0.177,0,2023-08-11 08:44:00
+784,"Jones, Peterson and Atkinson",Italian,Italian,Mumbai,South,-36.2392715,72.815791,4.37,0.251,0,2024-11-27 16:31:00
+785,Williams-Wilson,Healthy,Healthy,Pune,North,-45.456166,-7.212077,3.8,0.208,TRUE,2023-12-09 18:09:00
+786,"Nguyen, Strickland and Jones",North Indian,Chinese,Pune,West,46.037949,47.300904,3.58,0.216,1,2023-04-05 08:45:00
+787,Fleming-Martin,Bakery,Bakery,Bengaluru,North,-36.4445515,-175.134595,3.85,0.28,TRUE,2023-01-31 14:05:00
+788,"Madden, Wyatt and Horn",North Indian,Italian,Bengaluru,South,-83.8732605,-90.290616,4.69,0.299,,2024-02-07 14:04:00
+789,"Brown, Gordon and Maxwell",Italian,South Indian,Hyderabad,Central,2.779772,-11.671193,4.37,0.219,Y,2023-06-24 09:53:00
+790,Clark Inc,Healthy,South Indian,Mumbai,Central,56.747654,-14.625840,3.66,0.183,TRUE,2023-12-23 06:43:00
+791,Velez-Austin,Chinese,Bakery,Pune,North,84.747534,-75.620159,4.67,0.283,,2023-11-30 18:09:00
+792,"Mcknight, Taylor and Cline",South Indian,Chinese,Pune,Central,51.220970,81.467166,4.31,0.221,N,2024-07-27 03:11:00
+793,"Waters, Costa and White",Bakery,South Indian,Chennai,West,52.2036905,27.628641,3.1,0.195,,2024-04-17 13:10:00
+794,Cooley PLC,North Indian,South Indian,Delhi,East,59.9499865,122.587273,4.71,0.163,TRUE,2024-09-16 23:48:00
+795,Martinez Inc,Bakery,South Indian,Chennai,Central,41.251129,137.957230,4.42,0.266,N,2024-02-09 06:00:00
+796,Barker-Miller,South Indian,Fast Food,Pune,Central,79.985588,154.230697,3.6,0.237,Y,2023-03-07 21:29:00
+797,Miranda-Chambers,South Indian,North Indian,Hyderabad,Central,9.0609775,-6.909630,4.51,0.248,N,2023-07-25 13:18:00
+798,"Lee, Mullen and Smith",Chinese,Bakery,Mumbai,Central,-32.440355,-158.935661,4.28,0.208,1,2023-02-27 15:12:00
+799,Gilmore-Warren,Bakery,Healthy,Hyderabad,Central,-21.075466,-141.337627,3.83,0.281,FALSE,2024-05-28 03:41:00
+800,Jones-Houston,Healthy,Healthy,Bengaluru,North,54.5598235,128.609500,3.37,0.281,FALSE,2024-12-05 16:15:00
+801,Myers-Hurst,Fast Food,Italian,Chennai,South,-10.442566,58.912964,4.14,0.29,0,2024-05-09 21:27:00
+802,Allen LLC,Bakery,Fast Food,Mumbai,East,-52.9079605,-21.694176,4.38,0.216,,2024-04-25 23:47:00
+803,"Warren, White and Atkinson",Fast Food,Bakery,Bengaluru,Central,-60.2676275,-177.503912,3.6,0.221,,2023-07-06 23:40:00
+804,"Dennis, Booth and Brock",Fast Food,North Indian,Hyderabad,South,11.094832,-114.374348,4.66,0.194,FALSE,2024-07-16 06:14:00
+805,Kennedy-Beard,South Indian,South Indian,Pune,Central,63.5692435,57.528998,3.02,0.182,,2023-05-12 13:20:00
+806,"Burgess, Johnson and Wood",Italian,North Indian,Hyderabad,North,47.6465235,113.470143,4.03,0.16,Y,2024-03-20 18:36:00
+807,Smith-Santiago,North Indian,Bakery,Hyderabad,North,89.6024675,-84.568875,3.52,0.261,N,2023-03-11 17:57:00
+808,"Mitchell, Rich and Moyer",North Indian,Bakery,Delhi,West,30.761891,-19.072777,3.31,0.203,Y,2024-02-28 02:54:00
+809,Rowe Group,Chinese,Fast Food,Pune,West,-19.958558,25.492930,3.78,0.173,Y,2023-08-14 23:38:00
+810,"Farrell, Wiley and Hall",Chinese,Fast Food,Delhi,East,73.4119615,-27.400711,3.65,0.25,,2024-03-23 06:39:00
+811,Campbell Ltd,Fast Food,Healthy,Bengaluru,North,23.620146,-125.979454,4.41,0.241,0,2023-08-17 08:02:00
+812,Guerra-Barnes,Fast Food,Fast Food,Delhi,East,57.0842505,2.255444,4.71,0.166,N,2023-07-18 11:58:00
+813,Perez Inc,Italian,Fast Food,Hyderabad,South,-47.992176,-139.919184,4.17,0.278,0,2024-05-25 09:04:00
+814,Edwards-Jensen,Italian,Bakery,Pune,North,-33.3337975,171.007574,3.5,0.285,1,2023-09-09 03:30:00
+815,"Allen, Mcdonald and Jimenez",Chinese,Bakery,Bengaluru,Central,67.1151365,-131.204951,4.66,0.229,,2023-02-20 18:25:00
+816,"Brown, Freeman and Ruiz",Chinese,Healthy,Pune,Central,-10.9604015,-49.466717,3.57,0.262,FALSE,2023-12-13 18:31:00
+817,Reyes-Campbell,North Indian,North Indian,Bengaluru,West,2.4634235,70.886486,4.17,0.286,1,2024-07-23 23:13:00
+818,"Richardson, Hernandez and Pruitt",Chinese,Italian,Pune,East,-51.378424,-47.498658,3.88,0.162,Y,2023-08-06 15:14:00
+819,Lang PLC,Italian,South Indian,Hyderabad,East,70.795025,140.422150,4.46,0.268,N,2023-10-30 13:15:00
+820,"Matthews, Becker and Green",Healthy,Italian,Delhi,East,-9.151512,105.802555,3.44,0.191,Y,2024-08-10 13:56:00
+821,"Harvey, Wallace and Moore",South Indian,South Indian,Mumbai,East,14.093635,4.942902,3.36,0.288,FALSE,2023-06-24 17:08:00
+822,Wilson Ltd,South Indian,South Indian,Bengaluru,East,51.9911735,-119.976576,4.11,0.194,1,2024-07-16 21:48:00
+823,"Irwin, Anderson and Taylor",Chinese,South Indian,Pune,Central,-80.888754,-43.396916,3.44,0.24,1,2023-01-09 10:54:00
+824,Holloway and Sons,Italian,North Indian,Chennai,West,85.7801155,158.832720,3.01,0.222,FALSE,2024-10-18 19:14:00
+825,Clarke-Parker,Fast Food,Italian,Pune,East,81.1663955,-56.599563,3.29,0.185,Y,2024-02-24 12:53:00
+826,Smith LLC,Fast Food,North Indian,Bengaluru,West,-28.856475,-99.999618,4.03,0.233,Y,2024-03-25 10:10:00
+827,"King, Liu and Rhodes",Chinese,South Indian,Pune,West,-11.6084695,-22.439667,4.76,0.216,N,2024-06-25 17:59:00
+828,"Medina, Freeman and Thompson",Bakery,Fast Food,Delhi,South,-77.587480,22.629425,3.94,0.285,,2024-01-06 15:27:00
+829,Guerrero-Lewis,Fast Food,Chinese,Bengaluru,South,28.101558,47.841145,3.44,0.19,,2024-09-07 13:19:00
+830,"Gibbs, Morgan and Jenkins",Chinese,South Indian,Bengaluru,South,-89.400330,89.626037,4.65,0.222,,2024-05-03 16:16:00
+831,"Zamora, Adams and Patterson",North Indian,South Indian,Pune,North,-76.334342,-124.564184,3.5,0.226,0,2024-06-11 15:32:00
+832,"Thompson, Collins and Dunn",Healthy,Healthy,Pune,West,-68.826521,148.059910,3.66,0.162,1,2024-07-15 19:12:00
+833,"Butler, Smith and Bell",Healthy,Bakery,Hyderabad,West,46.849749,-132.303166,3.84,0.277,,2023-08-15 04:19:00
+834,Terry-Anderson,Healthy,North Indian,Chennai,Central,56.539517,160.552225,3.34,0.199,TRUE,2023-01-13 10:54:00
+835,"Beasley, Phillips and Ayala",Italian,Chinese,Delhi,West,52.596622,-150.563319,3.63,0.205,0,2023-02-03 11:00:00
+836,"Smith, Ramirez and Taylor",Chinese,South Indian,Chennai,South,-5.9061305,107.844792,4.02,0.211,Y,2024-11-04 16:01:00
+837,Tucker-Smith,South Indian,North Indian,Bengaluru,East,-51.9961585,156.374110,4.77,0.2,0,2023-07-27 12:41:00
+838,Knapp Inc,Chinese,Healthy,Mumbai,West,47.3394585,63.699010,4.58,0.251,N,2023-01-21 19:28:00
+839,Moore-Lee,Bakery,Bakery,Pune,Central,-30.8870425,175.719541,4.8,0.239,0,2023-01-01 17:55:00
+840,Russell Group,Bakery,Italian,Pune,West,38.701515,-83.654212,4.01,0.248,Y,2024-07-19 04:59:00
+841,Galloway and Sons,Healthy,Italian,Chennai,North,-42.0654905,-27.759510,4.42,0.157,N,2024-04-25 15:33:00
+842,Hahn and Sons,South Indian,Healthy,Mumbai,East,15.185622,86.181013,4.05,0.277,TRUE,2024-02-26 00:55:00
+843,Hicks Inc,Fast Food,Healthy,Hyderabad,South,-19.4125515,-122.854092,3.9,0.289,N,2023-01-12 01:53:00
+844,Young-Marsh,Bakery,North Indian,Chennai,East,25.4187265,-125.486290,4.16,0.256,Y,2024-09-07 13:38:00
+845,Hoover and Sons,Healthy,Bakery,Mumbai,Central,34.3384615,57.936780,4.7,0.253,TRUE,2023-01-18 15:04:00
+846,"Perez, Lopez and Coleman",Italian,Chinese,Hyderabad,North,50.871654,-105.074545,3.42,0.217,0,2023-06-12 11:47:00
+847,Rivas Inc,Chinese,Bakery,Delhi,Central,11.1510115,105.851090,,0.261,,2024-03-11 17:03:00
+848,Freeman and Sons,Fast Food,Fast Food,Bengaluru,East,87.184096,174.317633,3.12,0.175,0,2024-10-14 10:46:00
+849,Owens-Scott,Healthy,Healthy,Hyderabad,West,-38.855915,-157.563758,3.16,0.219,FALSE,2023-02-05 17:16:00
+850,Kelly LLC,Bakery,Chinese,Chennai,North,-77.7258495,-108.733794,,0.254,Y,2023-01-03 12:26:00
+851,"Chen, Robbins and Grimes",Italian,South Indian,Mumbai,East,87.8886415,-146.667896,4.33,0.228,TRUE,2024-09-26 12:39:00
+852,"Beltran, Torres and Benson",Chinese,North Indian,Bengaluru,North,-22.7875735,-118.874283,4.38,0.278,1,2024-02-23 20:41:00
+853,Becker-Valencia,Fast Food,North Indian,Pune,South,-84.1530095,61.192482,3.81,0.208,0,2023-09-06 18:52:00
+854,Johnston and Sons,Italian,Healthy,Pune,West,72.9513445,70.667702,4.41,0.291,0,2023-08-18 15:21:00
+855,"Blair, Kaufman and Griffin",North Indian,Chinese,Hyderabad,West,77.4425305,-145.692572,4.58,0.176,0,2023-03-28 07:36:00
+856,"Brown, Myers and Wells",Italian,Bakery,Pune,North,11.0646185,-93.212962,3.19,0.235,FALSE,2024-06-25 12:41:00
+857,Bean LLC,Bakery,Fast Food,Hyderabad,North,61.6854775,55.647185,3.39,0.297,Y,2024-03-11 17:36:00
+858,Pena Group,Italian,Italian,Bengaluru,South,32.031682,32.247331,3.76,0.25,,2023-02-17 13:37:00
+859,"Sanchez, Frazier and Parsons",Fast Food,Chinese,Pune,East,36.1825545,1.033297,3.87,0.268,Y,2023-12-01 09:55:00
+860,"Dyer, Richardson and Russell",Healthy,Bakery,Bengaluru,East,50.9888005,177.862307,4.46,0.222,TRUE,2024-11-05 04:27:00
+861,"Miller, Hernandez and Hoover",Chinese,Bakery,Delhi,West,21.534476,-38.219770,4.76,0.248,0,2024-05-29 18:42:00
+862,Greene-Strong,Healthy,Chinese,Bengaluru,West,-5.2254235,-51.316050,3.05,0.217,Y,2023-08-05 11:41:00
+863,"Buckley, Murphy and Park",Italian,Bakery,Pune,North,-46.4688655,121.969301,3.91,0.157,FALSE,2023-01-22 05:13:00
+864,"Mitchell, Miranda and Lewis",North Indian,Chinese,Delhi,Central,23.194066,121.324581,,0.268,Y,2023-11-07 19:47:00
+865,"Short, Diaz and Perez",Bakery,North Indian,Mumbai,East,5.2920565,-127.266282,3.21,0.265,,2023-04-28 02:56:00
+866,"Henderson, Hopkins and White",North Indian,South Indian,Delhi,South,16.173768,-53.348894,4.14,0.152,N,2023-10-10 15:02:00
+867,Edwards-Watson,Healthy,Healthy,Chennai,South,-76.087325,52.229693,4.18,0.2,1,2023-11-05 01:09:00
+868,Richards-Fleming,Italian,North Indian,Chennai,East,-0.412908,-20.595084,4.0,0.281,TRUE,2024-08-07 21:15:00
+869,Keller and Sons,Fast Food,Healthy,Chennai,South,-40.174207,145.524806,3.07,0.244,Y,2023-12-07 14:55:00
+870,"Barber, Mills and Dawson",Healthy,Fast Food,Chennai,Central,-78.073170,-103.502700,3.63,0.288,TRUE,2023-08-19 22:22:00
+871,"Fitzgerald, Hubbard and Cain",Italian,South Indian,Pune,North,-42.4304065,-142.253568,3.38,0.196,Y,2023-11-30 17:24:00
+872,Gonzalez Inc,South Indian,South Indian,Chennai,South,87.030520,-101.129208,3.18,0.16,TRUE,2023-10-31 21:56:00
+873,"Fuller, Dyer and Elliott",Healthy,Healthy,Chennai,West,40.5032795,77.649900,3.33,0.245,TRUE,2024-12-28 13:53:00
+874,"Harrison, Williams and Smith",Healthy,North Indian,Pune,Central,-86.4703025,-25.468149,4.26,0.189,1,2023-08-05 20:11:00
+875,Gray Inc,Bakery,Fast Food,Chennai,West,30.686794,24.886708,3.99,0.27,FALSE,2024-03-03 16:55:00
+876,Carter Ltd,North Indian,Bakery,Chennai,West,-2.2312275,0.520504,3.3,0.206,Y,2024-03-24 01:44:00
+877,Carpenter and Sons,North Indian,Italian,Hyderabad,Central,4.8044055,-136.369810,4.04,0.293,0,2024-05-28 03:56:00
+878,"Johnson, Hall and Hoffman",North Indian,South Indian,Pune,Central,-7.3644655,-52.669450,4.75,0.184,,2024-10-03 18:37:00
+879,Coleman PLC,Fast Food,North Indian,Delhi,South,47.086958,-27.509857,3.68,0.158,0,2024-01-26 08:36:00
+880,Ryan PLC,Chinese,Italian,Delhi,North,-89.092447,93.161027,3.47,0.167,0,2023-12-24 07:28:00
+881,"Montoya, Brennan and Cox",Fast Food,Italian,Pune,East,60.833487,16.484919,3.19,0.176,,2023-06-15 19:56:00
+882,Alexander Ltd,Fast Food,Chinese,Delhi,East,2.9654685,-80.853401,4.67,0.192,TRUE,2023-02-08 18:57:00
+883,"White, Leonard and Schmidt",Healthy,Italian,Bengaluru,Central,12.831895,42.319054,4.14,0.22,,2023-08-26 22:15:00
+884,"Simmons, Gordon and Turner",North Indian,Italian,Mumbai,Central,1.543761,78.530512,3.16,0.284,N,2023-06-26 13:03:00
+885,Chavez-Hall,Italian,North Indian,Bengaluru,East,-71.357387,-160.679341,3.48,0.2,Y,2023-09-29 08:57:00
+886,"Fisher, Khan and Turner",Chinese,Bakery,Bengaluru,West,-85.246995,-160.743588,3.67,0.261,Y,2023-05-27 20:27:00
+887,"Watts, Gomez and Shepherd",Chinese,North Indian,Pune,West,83.252297,-175.378366,4.33,0.27,Y,2023-04-28 07:28:00
+888,"Gilbert, Cole and Smith",Fast Food,Fast Food,Chennai,East,58.550361,-81.322772,4.47,0.274,Y,2023-05-19 00:42:00
+889,Guerra Group,Italian,South Indian,Hyderabad,West,50.1982985,-80.241186,3.34,0.209,0,2023-11-30 05:37:00
+890,Vasquez and Sons,Italian,North Indian,Delhi,East,-37.7668125,-68.418941,4.62,0.192,TRUE,2024-11-23 04:07:00
+891,Park PLC,North Indian,Healthy,Delhi,North,-74.8509525,-103.432749,3.79,0.215,Y,2023-05-07 06:29:00
+892,Cooper-Mccoy,Chinese,Italian,Delhi,Central,5.140575,-164.500184,3.34,0.234,Y,2023-05-27 14:41:00
+893,Clay-Perry,Chinese,North Indian,Chennai,South,70.685490,-67.360253,3.27,0.202,,2023-01-10 19:38:00
+894,Ruiz Group,Bakery,Chinese,Chennai,North,28.0550745,126.672494,3.63,0.28,FALSE,2023-12-14 00:13:00
+895,Nielsen LLC,North Indian,Fast Food,Delhi,South,42.0633235,95.051645,3.72,0.247,TRUE,2024-06-22 05:52:00
+896,Lopez-Howell,South Indian,Italian,Chennai,North,0.875775,-155.400636,3.02,0.181,1,2023-02-03 23:37:00
+897,Singh Inc,Fast Food,North Indian,Chennai,North,45.324987,50.151678,3.33,0.173,N,2024-04-26 05:24:00
+898,Mclaughlin-Thomas,South Indian,Italian,Pune,East,-24.4091065,-147.458800,3.45,0.287,N,2024-03-15 14:59:00
+899,"Miller, Blevins and Sanchez",Healthy,Fast Food,Delhi,Central,-79.133276,155.088790,3.78,0.237,,2023-10-27 13:08:00
+900,Martinez-Hill,Healthy,Chinese,Hyderabad,West,13.334202,-26.604886,4.75,0.253,N,2024-08-11 09:52:00
+901,Mayo-Carr,South Indian,Italian,Delhi,East,47.8406635,-179.975509,4.09,0.202,1,2024-05-21 05:21:00
+902,"Roberts, Becker and Parker",Chinese,Bakery,Chennai,West,-70.2269175,-55.092141,4.35,0.295,,2023-01-05 23:26:00
+903,"Garner, Moody and Elliott",Bakery,Fast Food,Delhi,North,-3.2180775,131.892364,3.41,0.264,N,2023-02-02 06:31:00
+904,Rodriguez-Martinez,Healthy,South Indian,Bengaluru,Central,-39.4068365,159.097138,3.71,0.223,TRUE,2024-09-03 00:30:00
+905,"Henson, Zavala and Cuevas",Fast Food,Bakery,Delhi,West,-79.6997585,114.263957,3.44,0.183,0,2023-07-24 03:28:00
+906,Green Group,North Indian,Fast Food,Chennai,Central,54.415170,24.306443,3.57,0.166,TRUE,2024-02-17 09:32:00
+907,Smith-Conrad,South Indian,Fast Food,Hyderabad,Central,23.606753,172.125638,4.47,0.28,N,2024-09-03 07:34:00
+908,"Clark, Welch and Castro",Bakery,Healthy,Hyderabad,South,1.513856,59.175982,3.95,0.293,,2023-03-15 03:45:00
+909,"Tucker, Singleton and Moses",Fast Food,Italian,Delhi,West,81.077021,157.876550,3.5,0.286,0,2024-01-04 16:32:00
+910,"Woods, Welch and Sampson",Fast Food,Healthy,Mumbai,Central,83.540450,142.332643,3.47,0.153,Y,2024-01-22 14:33:00
+911,Clark and Sons,Bakery,Italian,Bengaluru,South,-31.229901,162.787401,3.9,0.159,0,2024-02-11 01:17:00
+912,Palmer PLC,Healthy,South Indian,Mumbai,South,79.710175,50.016708,3.74,0.279,0,2024-05-21 18:50:00
+913,"Taylor, Moore and Vega",North Indian,Bakery,Chennai,West,17.607348,-103.926421,4.09,0.299,Y,2023-05-30 14:32:00
+914,Evans-Green,Chinese,North Indian,Chennai,East,12.9496485,132.635393,3.18,0.169,0,2023-03-03 18:04:00
+915,Kelly and Sons,Healthy,Fast Food,Delhi,West,72.6821485,148.457712,3.06,0.224,N,2024-10-29 00:36:00
+916,"Morgan, Pierce and Stewart",North Indian,North Indian,Pune,West,85.022751,155.241876,3.24,0.3,,2024-05-04 21:55:00
+917,Torres and Sons,Italian,Italian,Delhi,South,-88.063950,9.901728,3.33,0.157,,2024-06-30 07:19:00
+918,"Thomas, Craig and Cox",Healthy,Bakery,Pune,North,23.991056,158.098798,3.99,0.167,,2023-02-12 15:06:00
+919,"Reed, Jones and Wade",Bakery,Italian,Mumbai,Central,55.476878,169.440825,3.85,0.289,,2023-07-22 19:44:00
+920,"Lewis, Clark and Johnson",North Indian,North Indian,Bengaluru,South,33.6914435,-46.373457,,0.277,0,2024-11-11 13:21:00
+921,Martin-Christian,Bakery,South Indian,Mumbai,South,65.215177,-24.468288,3.72,0.224,1,2024-06-09 11:08:00
+922,Moore LLC,Healthy,Fast Food,Chennai,West,-32.503471,-31.489402,3.81,0.176,,2023-08-25 05:44:00
+923,King and Sons,South Indian,South Indian,Pune,West,-23.0266045,170.046271,3.41,0.268,Y,2023-08-01 05:54:00
+924,Hicks LLC,Healthy,Chinese,Mumbai,South,68.602937,-161.062024,4.03,0.156,0,2023-10-31 20:13:00
+925,Barker-Moses,Healthy,Chinese,Chennai,East,87.2841315,-167.591469,4.54,0.266,TRUE,2024-01-12 09:57:00
+926,Cherry LLC,Healthy,Chinese,Mumbai,South,81.9300425,-152.872488,4.15,0.24,N,2024-04-10 18:38:00
+927,Barker PLC,Healthy,Fast Food,Bengaluru,North,32.7606345,37.993781,3.1,0.26,FALSE,2023-10-04 14:37:00
+928,"Tanner, Butler and Lee",Fast Food,South Indian,Mumbai,East,11.7439325,-41.923606,3.72,0.276,FALSE,2024-01-04 21:47:00
+929,"Delgado, Porter and Watson",Chinese,Fast Food,Chennai,North,46.998115,-143.778954,,0.231,FALSE,2024-01-05 01:19:00
+930,"Rosario, Moody and Montgomery",North Indian,Fast Food,Bengaluru,West,-35.138000,26.393563,4.57,0.158,N,2023-07-12 03:56:00
+931,"Johnston, Mckenzie and Miller",Healthy,South Indian,Pune,South,89.555449,144.876908,4.42,0.299,1,2024-12-24 17:04:00
+932,Collins-Miller,Healthy,Healthy,Bengaluru,South,69.6055395,-163.780901,3.51,0.251,1,2024-08-17 14:21:00
+933,"Jones, Morrison and Vincent",Italian,North Indian,Delhi,Central,0.1157285,99.143431,3.03,0.283,Y,2024-11-24 06:49:00
+934,Fernandez-Hernandez,South Indian,South Indian,Mumbai,East,-84.5115845,146.938588,,0.158,N,2024-08-03 07:04:00
+935,"Murphy, Ellis and Bailey",Healthy,Italian,Bengaluru,East,-80.5236825,-176.944042,4.78,0.276,0,2023-08-21 07:53:00
+936,"Lynn, Mccoy and White",South Indian,South Indian,Bengaluru,Central,-60.0261075,-41.534567,3.68,0.151,,2024-05-01 02:55:00
+937,Osborne-Stephenson,Chinese,Chinese,Chennai,East,-38.520960,-69.924251,3.81,0.288,,2023-09-14 01:34:00
+938,Pena-Herring,Fast Food,Chinese,Delhi,Central,-18.3926885,-102.698751,4.37,0.233,TRUE,2024-09-04 00:23:00
+939,"Warren, Moore and Robinson",Italian,Healthy,Bengaluru,East,22.655010,127.868253,4.51,0.27,Y,2023-08-27 21:45:00
+940,"Carter, Lee and Williams",Chinese,Fast Food,Delhi,South,-52.8635015,155.703996,3.28,0.163,0,2024-03-18 08:08:00
+941,Colon-Becker,North Indian,South Indian,Delhi,North,45.0701505,51.914655,3.33,0.271,TRUE,2024-06-23 12:50:00
+942,Smith-Brewer,Chinese,Bakery,Pune,East,44.4954045,-121.797805,4.79,0.153,N,2023-10-29 19:50:00
+943,Miller Ltd,Italian,Italian,Mumbai,South,56.9287355,154.157100,4.74,0.162,N,2023-11-05 19:47:00
+944,Dixon-Perez,South Indian,South Indian,Bengaluru,North,-88.943542,68.456969,3.66,0.257,Y,2024-11-29 21:18:00
+945,"Arnold, Bryant and Larson",Bakery,Healthy,Hyderabad,South,-86.4595035,-100.473601,4.52,0.174,FALSE,2023-05-05 10:46:00
+946,"Cooper, Young and Hernandez",Bakery,Healthy,Hyderabad,West,75.950332,64.773383,3.84,0.239,,2025-01-01 03:56:00
+947,Ross-Thompson,North Indian,Italian,Pune,Central,-88.2313755,76.188079,4.47,0.198,0,2023-04-27 03:11:00
+948,"Villegas, Buckley and Hicks",South Indian,Chinese,Bengaluru,West,-14.482441,-84.222288,3.46,0.197,1,2024-01-09 10:25:00
+949,Frey and Sons,South Indian,Italian,Pune,Central,9.243140,106.604730,3.79,0.288,TRUE,2024-04-26 09:00:00
+950,Harris LLC,Italian,Italian,Bengaluru,West,-77.8417325,-38.857603,4.03,0.198,TRUE,2023-11-22 22:20:00
+951,"Chambers, Vasquez and Davenport",North Indian,South Indian,Bengaluru,South,-29.604926,-2.499024,3.98,0.151,FALSE,2023-05-06 22:10:00
+952,Fisher Inc,Italian,North Indian,Bengaluru,East,14.5939315,-70.190457,4.68,0.166,1,2024-10-27 01:15:00
+953,Fisher LLC,Fast Food,South Indian,Bengaluru,Central,0.5538675,85.146111,3.19,0.25,0,2024-06-18 21:33:00
+954,"Powell, Schaefer and Long",Chinese,Italian,Chennai,West,73.233999,-168.832878,3.16,0.207,0,2024-03-08 08:51:00
+955,"Smith, Payne and Pena",Healthy,Healthy,Bengaluru,South,4.3141615,103.398647,3.06,0.194,TRUE,2023-05-13 13:36:00
+956,"Walker, Beck and Powers",Fast Food,Healthy,Chennai,North,-5.8304835,90.955296,3.1,0.278,N,2023-03-18 04:11:00
+957,Macias Ltd,Bakery,South Indian,Pune,South,58.5991725,-65.765784,4.57,0.294,FALSE,2024-12-25 02:22:00
+958,Williams-Huffman,Chinese,Bakery,Bengaluru,East,25.7080745,-132.645922,3.46,0.291,Y,2023-05-28 09:22:00
+959,Carpenter Inc,North Indian,Bakery,Hyderabad,East,-75.4794165,74.089295,3.26,0.284,FALSE,2023-10-28 04:18:00
+960,Ochoa-Jackson,Chinese,Italian,Chennai,Central,-35.4398105,13.809916,3.13,0.184,,2024-09-03 11:52:00
+961,Lopez-Bennett,South Indian,Chinese,Bengaluru,East,-49.403544,-179.064895,4.13,0.209,0,2023-05-31 02:12:00
+962,Black Group,Healthy,South Indian,Pune,Central,9.113732,112.834631,3.52,0.292,0,2023-10-04 19:48:00
+963,Short-Castillo,Bakery,Healthy,Delhi,South,69.7213885,-178.389181,3.02,0.166,Y,2024-12-08 07:16:00
+964,Murphy Inc,South Indian,Bakery,Pune,South,5.972077,164.232871,4.76,0.246,1,2023-09-05 21:35:00
+965,"Wallace, Bennett and Brown",Fast Food,Fast Food,Bengaluru,Central,29.108404,65.065647,,0.246,N,2024-07-02 14:37:00
+966,Jacobs and Sons,Bakery,Italian,Hyderabad,Central,22.0966265,-89.103374,4.5,0.167,N,2024-06-23 07:45:00
+967,"Smith, Lopez and Hill",Bakery,Healthy,Bengaluru,South,23.4267345,-57.661281,3.49,0.246,Y,2024-05-15 10:27:00
+968,Sherman-Sanford,Chinese,Bakery,Pune,West,-59.710914,151.744279,3.43,0.22,0,2024-03-18 20:34:00
+969,Jackson Group,Healthy,Chinese,Pune,North,-50.7672975,47.135243,3.06,0.275,,2024-01-07 08:14:00
+970,Jefferson LLC,Healthy,Healthy,Bengaluru,South,80.204720,5.518491,4.2,0.157,N,2023-01-05 19:14:00
+971,"Boyd, Schmidt and Koch",North Indian,Fast Food,Mumbai,South,25.2667285,96.456825,3.85,0.243,TRUE,2024-07-24 19:32:00
+972,"Walker, Frank and Brown",Fast Food,Chinese,Chennai,North,10.2044065,-108.927600,3.81,0.235,TRUE,2023-12-02 22:25:00
+973,"Dickerson, Smith and Austin",South Indian,Fast Food,Delhi,Central,68.224482,175.210063,3.06,0.23,,2024-04-02 05:13:00
+974,Russo-Becker,Bakery,Fast Food,Pune,West,73.2301975,-101.103976,3.72,0.245,0,2023-06-26 09:49:00
+975,"Johnson, Weaver and Hale",Fast Food,Chinese,Bengaluru,South,6.166601,84.030080,3.77,0.155,1,2024-12-07 21:43:00
+976,Smith-Hansen,Fast Food,North Indian,Pune,West,87.2427115,-171.871299,3.32,0.297,TRUE,2024-11-02 01:50:00
+977,Higgins PLC,North Indian,South Indian,Pune,Central,72.8952225,-67.585607,3.9,0.219,FALSE,2024-08-19 11:20:00
+978,Schaefer-Vasquez,Healthy,South Indian,Hyderabad,North,-12.140082,-93.092830,3.25,0.186,FALSE,2023-03-25 06:19:00
+979,Wilson and Sons,North Indian,Healthy,Delhi,North,-77.8187905,100.875724,3.7,0.228,Y,2023-12-19 14:38:00
+980,Hoffman-Taylor,North Indian,Chinese,Bengaluru,Central,-75.5382755,-167.113777,3.76,0.178,TRUE,2023-06-28 16:57:00
+981,Gonzales Group,Chinese,Bakery,Chennai,East,-77.483283,-73.990498,4.28,0.185,0,2024-05-16 08:40:00
+982,Rogers-Sullivan,Bakery,South Indian,Mumbai,Central,16.8534515,44.123395,4.63,0.241,Y,2023-07-09 01:11:00
+983,"Brooks, Smith and Combs",North Indian,Chinese,Pune,West,-1.6004755,-158.390937,4.07,0.218,Y,2024-09-24 21:02:00
+984,Smith Group,Bakery,Chinese,Delhi,West,89.3711725,37.037960,3.26,0.17,FALSE,2023-12-04 07:43:00
+985,Simmons Group,Fast Food,Chinese,Chennai,South,32.502580,-21.019195,,0.253,FALSE,2024-12-01 18:41:00
+986,Robles-Mccullough,Fast Food,South Indian,Pune,East,-71.5115655,116.412007,3.89,0.194,TRUE,2023-07-06 16:40:00
+987,"Schmidt, Franklin and Middleton",South Indian,Fast Food,Mumbai,Central,46.981214,32.233795,3.83,0.213,0,2024-11-28 02:26:00
+988,Powell LLC,North Indian,North Indian,Mumbai,Central,-71.970833,-26.144748,4.05,0.186,Y,2023-08-01 01:43:00
+989,Hood-Bautista,Healthy,Bakery,Bengaluru,Central,-75.892510,-46.317808,3.05,0.177,Y,2023-09-24 13:49:00
+990,"Cooper, Summers and Bolton",Healthy,Chinese,Hyderabad,Central,21.8390025,-147.032320,3.5,0.176,FALSE,2023-05-23 04:18:00
+991,Hess-Lewis,Fast Food,Italian,Mumbai,North,-83.310148,169.747977,3.41,0.229,1,2023-11-26 16:11:00
+992,Gray-Newman,Fast Food,Chinese,Bengaluru,North,12.5484625,-143.422874,4.69,0.238,TRUE,2023-04-18 08:29:00
+993,"Jensen, Moreno and Khan",Fast Food,Italian,Pune,West,-62.3745695,87.220765,3.02,0.181,Y,2024-09-24 05:47:00
+994,Hall LLC,Healthy,Bakery,Bengaluru,West,5.0193915,34.752061,3.41,0.178,N,2024-01-20 22:10:00
+995,Davis-Stevens,Fast Food,South Indian,Bengaluru,East,-79.5384505,4.152113,3.93,0.16,FALSE,2023-04-20 21:19:00
+996,"Blackwell, Nelson and Castillo",Chinese,Chinese,Mumbai,West,77.5284695,-144.802079,3.13,0.232,,2023-09-10 18:26:00
+997,"Johnson, Howard and Price",Italian,Bakery,Bengaluru,North,3.5876295,103.066338,3.36,0.232,TRUE,2023-04-09 07:37:00
+998,"Bowman, Pacheco and Moses",Chinese,Italian,Mumbai,North,88.604778,-42.980178,3.8,0.196,,2024-01-11 10:41:00
+999,"Park, Scott and Villarreal",North Indian,Chinese,Delhi,North,-48.5652275,170.240016,3.06,0.288,1,2023-11-26 22:11:00
+1000,"Watkins, Franklin and Moreno",Fast Food,Bakery,Hyderabad,Central,33.840568,-75.622538,3.93,0.25,Y,2024-06-07 00:56:00
